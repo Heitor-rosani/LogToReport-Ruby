@@ -1,0 +1,4 @@
+<world>->Oootsimo
+<world>->Zeh
+<world>->Maluquinho
+<world>->Isgalamido

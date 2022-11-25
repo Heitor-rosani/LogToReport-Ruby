@@ -1,0 +1,39 @@
+<world>->Dono da Bola
+<world>->Mal
+<world>->Chessus
+<world>->Mal
+<world>->Dono da Bola
+<world>->Dono da Bola
+<world>->Mal
+<world>->Dono da Bola
+<world>->Mal
+<world>->Chessus
+<world>->Mal
+<world>->Mal
+<world>->Dono da Bola
+<world>->Dono da Bola
+<world>->Oootsimo
+<world>->Mal
+<world>->Oootsimo
+<world>->Mal
+<world>->Oootsimo
+<world>->Oootsimo
+<world>->Chessus
+<world>->Zeh
+<world>->Oootsimo
+<world>->Mal
+<world>->Assasinu Credi
+<world>->Mal
+<world>->Oootsimo
+<world>->Oootsimo
+<world>->Dono da Bola
+<world>->Mal
+<world>->Chessus
+<world>->Dono da Bola
+<world>->Mal
+<world>->Assasinu Credi
+<world>->Mal
+<world>->Oootsimo
+<world>->Oootsimo
+<world>->Mal
+<world>->Assasinu Credi

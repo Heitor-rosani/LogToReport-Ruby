@@ -1,0 +1,20 @@
+<world>->Isgalamido
+<world>->Dono da Bola
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Dono da Bola
+<world>->Assasinu Credi
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Dono da Bola
+<world>->Dono da Bola
+<world>->Dono da Bola
+<world>->Isgalamido
+<world>->Dono da Bola
+<world>->Zeh
+<world>->Dono da Bola
+<world>->Assasinu Credi
+<world>->Isgalamido
+<world>->Zeh
+<world>->Assasinu Credi

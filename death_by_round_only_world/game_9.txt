@@ -1,0 +1,11 @@
+<world>->Assasinu Credi
+<world>->Isgalamido
+<world>->Mal
+<world>->Zeh
+<world>->Mal
+<world>->Mal
+<world>->Zeh
+<world>->Mal
+<world>->Dono da Bola
+<world>->Zeh
+<world>->Chessus

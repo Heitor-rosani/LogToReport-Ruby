@@ -1,0 +1,17 @@
+<world>->Dono da Bola
+<world>->Mal
+<world>->Isgalamido
+<world>->Oootsimo
+<world>->Assasinu Credi
+<world>->Mal
+<world>->Mal
+<world>->Assasinu Credi
+<world>->Mal
+<world>->Oootsimo
+<world>->Mal
+<world>->Assasinu Credi
+<world>->Isgalamido
+<world>->Zeh
+<world>->Zeh
+<world>->Dono da Bola
+<world>->Mal

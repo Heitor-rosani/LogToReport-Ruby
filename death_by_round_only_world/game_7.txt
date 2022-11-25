@@ -1,0 +1,27 @@
+<world>->Zeh
+<world>->Dono da Bola
+<world>->Zeh
+<world>->Mal
+<world>->Mal
+<world>->Mal
+<world>->Oootsimo
+<world>->Mal
+<world>->Isgalamido
+<world>->Oootsimo
+<world>->Zeh
+<world>->Mal
+<world>->Mal
+<world>->Zeh
+<world>->Mal
+<world>->Zeh
+<world>->Isgalamido
+<world>->Mal
+<world>->Dono da Bola
+<world>->Isgalamido
+<world>->Mal
+<world>->Mal
+<world>->Mal
+<world>->Oootsimo
+<world>->Oootsimo
+<world>->Isgalamido
+<world>->Mal
