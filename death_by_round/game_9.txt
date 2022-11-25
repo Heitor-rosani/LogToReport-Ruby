@@ -1,0 +1,67 @@
+ 16:41 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 16:48 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 16:49 Kill: 2 2 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+ 16:49 Kill: 6 5 1: Mal killed Dono da Bola by MOD_SHOTGUN
+ 17:05 Kill: 6 2 6: Mal killed Oootsimo by MOD_ROCKET
+ 17:09 Kill: 5 6 7: Dono da Bola killed Mal by MOD_ROCKET_SPLASH
+ 17:15 Kill: 5 5 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ 17:16 Kill: 6 3 3: Mal killed Isgalamido by MOD_MACHINEGUN
+ 17:17 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 17:33 Kill: 4 5 6: Zeh killed Dono da Bola by MOD_ROCKET
+ 17:34 Kill: 1022 3 19: <world> killed Isgalamido by MOD_FALLING
+ 17:34 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 17:39 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 17:43 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 17:43 Kill: 5 7 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 17:45 Kill: 2 5 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 17:53 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 17:55 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 18:03 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
+ 18:07 Kill: 3 7 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 18:09 Kill: 2 3 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+ 18:10 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 18:21 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
+ 18:21 Kill: 3 7 7: Isgalamido killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 18:22 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 18:41 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
+ 18:46 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 18:50 Kill: 1022 3 19: <world> killed Dono da Bola by MOD_FALLING
+ 18:54 Kill: 6 4 7: Mal killed Zeh by MOD_ROCKET_SPLASH
+ 18:55 Kill: 7 6 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 19:12 Kill: 4 6 6: Zeh killed Mal by MOD_ROCKET
+ 19:13 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:22 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 19:35 Kill: 7 6 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 19:36 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:41 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 19:44 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 19:47 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:55 Kill: 2 6 6: Oootsimo killed Mal by MOD_ROCKET
+ 19:58 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 19:59 Kill: 5 4 10: Chessus killed Zeh by MOD_RAILGUN
+ 20:03 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN
+ 20:06 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:14 Kill: 7 6 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 20:14 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 20:15 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 20:20 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:24 Kill: 2 6 6: Oootsimo killed Mal by MOD_ROCKET
+ 20:26 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN
+ 20:29 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 20:30 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:39 Kill: 4 5 6: Zeh killed Chessus by MOD_ROCKET
+ 20:49 Kill: 6 4 6: Mal killed Zeh by MOD_ROCKET
+ 20:49 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 20:54 Kill: 5 4 7: Chessus killed Zeh by MOD_ROCKET_SPLASH
+ 21:02 Kill: 1022 5 22: <world> killed Chessus by MOD_TRIGGER_HURT
+ 21:10 Kill: 6 7 6: Mal killed Assasinu Credi by MOD_ROCKET
+ 21:10 Kill: 6 6 7: Mal killed Mal by MOD_ROCKET_SPLASH
+ 21:15 Kill: 4 2 10: Zeh killed Oootsimo by MOD_RAILGUN
+ 21:18 Kill: 5 4 10: Chessus killed Zeh by MOD_RAILGUN
+ 21:24 Kill: 7 2 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ 21:26 Kill: 4 5 10: Zeh killed Chessus by MOD_RAILGUN
+ 21:28 Kill: 2 4 3: Oootsimo killed Zeh by MOD_MACHINEGUN
+ 21:34 Kill: 4 2 3: Zeh killed Oootsimo by MOD_MACHINEGUN
+ 21:42 Kill: 7 6 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 21:48 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 21:51 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN

@@ -1,0 +1,166 @@
+
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:04 ClientUserinfoChanged: 3 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 3
+  0:06 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1
+  0:06 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1
+  0:06 ClientBegin: 3
+  0:08 Item: 3 weapon_railgun
+  0:10 Item: 3 weapon_rocketlauncher
+  0:17 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+  0:26 ClientConnect: 2
+  0:26 ClientUserinfoChanged: 2 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:28 ClientUserinfoChanged: 2 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:28 ClientBegin: 2
+  0:30 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:30 ClientBegin: 2
+  0:37 Item: 2 weapon_rocketlauncher
+  0:43 Item: 2 weapon_railgun
+  0:45 Item: 3 weapon_rocketlauncher
+  0:46 Item: 2 item_armor_body
+  0:49 Item: 3 weapon_rocketlauncher
+  0:50 Item: 2 weapon_rocketlauncher
+  0:54 Item: 2 weapon_bfg
+  0:55 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+  0:59 Item: 3 weapon_rocketlauncher
+  1:00 Item: 2 ammo_rockets
+  1:00 Item: 2 ammo_bullets
+  1:00 ClientConnect: 4
+  1:00 ClientUserinfoChanged: 4 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:02 ClientConnect: 5
+  1:02 ClientUserinfoChanged: 5 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:02 ClientUserinfoChanged: 4 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:02 ClientBegin: 4
+  1:03 ClientUserinfoChanged: 5 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:03 ClientBegin: 5
+  1:03 Item: 3 weapon_bfg
+  1:05 ClientConnect: 6
+  1:05 ClientUserinfoChanged: 6 n\Chessus\t\3\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:06 ClientUserinfoChanged: 6 n\Chessus\t\3\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:06 ClientBegin: 6
+  1:07 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  1:07 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  1:07 ClientBegin: 4
+  1:09 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:09 ClientBegin: 6
+  1:09 ClientConnect: 7
+  1:09 ClientUserinfoChanged: 7 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  1:09 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:09 ClientBegin: 5
+  1:09 Item: 4 ammo_bullets
+  1:09 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  1:09 Item: 4 ammo_rockets
+  1:11 ClientUserinfoChanged: 7 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:11 ClientBegin: 7
+  1:11 Item: 3 item_armor_body
+  1:11 Item: 6 weapon_railgun
+  1:14 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:14 ClientBegin: 7
+  1:14 Item: 5 weapon_rocketlauncher
+  1:14 Item: 6 weapon_railgun
+  1:15 Item: 3 weapon_rocketlauncher
+  1:17 Item: 6 weapon_railgun
+  1:19 Item: 7 weapon_rocketlauncher
+  1:19 Item: 5 team_CTF_redflag
+  1:20 Item: 3 item_health
+  1:20 Kill: 1022 3 17: <world> killed Dono da Bola by MOD_CRUSH
+  1:22 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  1:23 Kill: 5 7 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+  1:23 Item: 3 weapon_railgun
+  1:24 Item: 4 weapon_railgun
+  1:25 Item: 5 weapon_rocketlauncher
+  1:26 Item: 2 weapon_rocketlauncher
+  1:28 Item: 5 item_health_large
+  1:29 Item: 5 team_CTF_blueflag
+  1:30 Item: 4 weapon_railgun
+  1:30 Item: 2 weapon_bfg
+  1:31 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+  1:32 Item: 7 weapon_railgun
+  1:34 Item: 3 team_CTF_blueflag
+  1:35 Item: 4 item_health_large
+  1:35 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+  1:35 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  1:35 Item: 6 weapon_rocketlauncher
+  1:36 Item: 5 team_CTF_blueflag
+  1:36 Item: 5 weapon_railgun
+  1:36 Item: 4 item_health_large
+  1:37 Item: 2 item_armor_body
+  1:38 Item: 4 weapon_railgun
+  1:39 Item: 3 weapon_rocketlauncher
+  1:39 Item: 4 item_health_large
+  1:40 Item: 4 team_CTF_redflag
+  1:42 Kill: 3 5 7: Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
+  1:42 Item: 2 ammo_rockets
+  1:42 Item: 4 weapon_rocketlauncher
+  1:42 Item: 2 ammo_bullets
+  1:44 Item: 3 team_CTF_blueflag
+  1:44 Item: 5 weapon_railgun
+  1:45 Kill: 2 4 3: Isgalamido killed Zeh by MOD_MACHINEGUN
+  1:45 Kill: 5 3 10: Oootsimo killed Dono da Bola by MOD_RAILGUN
+  1:46 Item: 5 weapon_rocketlauncher
+  1:46 Item: 5 team_CTF_blueflag
+  1:46 Item: 7 team_CTF_blueflag
+  1:47 Item: 6 weapon_railgun
+  1:47 Item: 2 weapon_bfg
+  1:48 Item: 4 weapon_rocketlauncher
+  1:48 Item: 5 weapon_rocketlauncher
+  1:48 Item: 3 weapon_rocketlauncher
+  1:48 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  1:52 Item: 6 team_CTF_redflag
+  1:52 Item: 5 weapon_railgun
+  1:53 Item: 7 weapon_railgun
+  1:53 Item: 2 weapon_bfg
+  1:55 ClientConnect: 8
+  1:55 ClientUserinfoChanged: 8 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:55 Item: 6 team_CTF_blueflag
+  1:56 Item: 4 ammo_bullets
+  1:57 Item: 6 ammo_rockets
+  1:57 Kill: 2 2 13: Isgalamido killed Isgalamido by MOD_BFG_SPLASH
+  1:57 Item: 4 weapon_rocketlauncher
+  1:58 ClientUserinfoChanged: 8 n\Mal\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:58 ClientBegin: 8
+  2:01 Item: 2 weapon_railgun
+  2:01 Item: 7 weapon_rocketlauncher
+  2:02 Item: 6 team_CTF_redflag
+  2:04 Item: 5 item_health_large
+  2:04 Item: 6 weapon_rocketlauncher
+  2:06 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:06 ClientBegin: 8
+  2:06 Item: 7 weapon_railgun
+  2:07 Kill: 2 4 10: Isgalamido killed Zeh by MOD_RAILGUN
+  2:08 Item: 8 weapon_rocketlauncher
+  2:08 Item: 6 team_CTF_blueflag
+  2:11 Kill: 2 6 10: Isgalamido killed Chessus by MOD_RAILGUN
+  2:11 Item: 8 team_CTF_redflag
+  2:14 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  2:14 Item: 4 weapon_railgun
+  2:14 Item: 5 weapon_rocketlauncher
+  2:15 Item: 4 weapon_rocketlauncher
+  2:17 Kill: 2 8 10: Isgalamido killed Mal by MOD_RAILGUN
+  2:18 Item: 6 weapon_railgun
+  2:20 Item: 2 weapon_bfg
+  2:20 Item: 5 weapon_rocketlauncher
+  2:20 Item: 6 team_CTF_redflag
+  2:22 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+  2:23 Item: 4 weapon_rocketlauncher
+  2:24 Item: 8 weapon_rocketlauncher
+  2:25 Item: 4 weapon_railgun
+  2:25 Kill: 5 2 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+  2:26 Item: 6 team_CTF_redflag
+  2:26 Item: 6 weapon_railgun
+  2:26 Item: 6 weapon_bfg
+  2:27 Item: 6 team_CTF_blueflag
+  2:28 Item: 2 weapon_railgun
+  2:28 Item: 7 ammo_rockets
+  2:28 Item: 7 ammo_bullets
+  2:29 Item: 7 weapon_rocketlauncher
+  2:29 Item: 6 weapon_railgun
+  2:29 Item: 8 team_CTF_redflag
+  2:30 Item: 5 weapon_rocketlauncher
+  2:32 Item: 8 weapon_rocketlauncher
+  2:33 Item: 7 weapon_railgun
+  2:33 Item: 5 weapon_rocketlauncher
+  2:33 ShutdownGame:
+  2:33 

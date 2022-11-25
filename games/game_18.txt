@@ -1,0 +1,68 @@
+
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 4
+  0:00 ClientUserinfoChanged: 4 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 5
+  0:00 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 6
+  0:00 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 7
+  0:00 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 3
+  0:03 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 7
+  0:03 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 5
+  0:04 ClientUserinfoChanged: 4 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 4
+  0:04 ClientDisconnect: 4
+  0:04 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 6
+  0:04 Item: 7 ammo_bullets
+  0:04 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 2
+  0:04 ClientDisconnect: 2
+  0:04 Item: 3 weapon_rocketlauncher
+  0:05 Item: 6 ammo_rockets
+  0:07 Item: 7 weapon_rocketlauncher
+  0:07 Item: 6 item_armor_body
+  0:09 Item: 6 weapon_rocketlauncher
+  0:10 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+  0:10 Item: 7 weapon_rocketlauncher
+  0:11 ClientConnect: 2
+  0:11 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:12 ClientBegin: 2
+  0:12 ClientConnect: 4
+  0:12 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:13 Item: 5 ammo_rockets
+  0:13 Item: 6 ammo_bullets
+  0:14 Item: 2 weapon_rocketlauncher
+  0:14 Item: 5 weapon_rocketlauncher
+  0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  0:14 ClientBegin: 4
+  0:15 Item: 3 item_health_large
+  0:16 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+  0:16 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
+  0:17 Item: 4 weapon_rocketlauncher
+  0:18 Item: 5 item_armor_shard
+  0:18 Item: 5 item_armor_shard
+  0:18 Item: 5 item_armor_shard
+  0:18 Item: 5 item_armor_combat
+  0:21 Item: 6 weapon_rocketlauncher
+  0:23 Item: 2 weapon_rocketlauncher
+  0:26 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+  0:27 Kill: 1022 4 19: <world> killed Dono da Bola by MOD_FALLING
+  0:28 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  0:31 Item: 7 weapon_rocketlauncher
+  0:31 Kill: 5 6 7: Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
+  0:32 Item: 5 weapon_rocketlauncher
+  0:35 ShutdownGame:
+  0:35 

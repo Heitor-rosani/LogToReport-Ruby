@@ -1,0 +1,549 @@
+
+  6:34 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
+  6:34 ClientConnect: 2
+  6:34 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 2
+  6:34 ClientConnect: 3
+  6:34 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 3
+  6:34 ClientConnect: 4
+  6:34 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 4
+  6:34 ClientConnect: 5
+  6:34 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 5
+  6:34 ClientConnect: 6
+  6:34 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 6
+  6:34 ClientConnect: 7
+  6:34 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:34 ClientBegin: 7
+  6:35 Item: 4 ammo_rockets
+  6:35 Item: 4 weapon_rocketlauncher
+  6:35 Item: 6 ammo_rockets
+  6:35 Item: 6 weapon_rocketlauncher
+  6:39 Item: 3 item_armor_body
+  6:40 Item: 6 weapon_rocketlauncher
+  6:40 Item: 5 weapon_rocketlauncher
+  6:41 Item: 3 item_health_large
+  6:42 Item: 2 weapon_railgun
+  6:43 Kill: 4 2 6: Dono da Bola killed Isgalamido by MOD_ROCKET
+  6:44 Item: 5 item_armor_shard
+  6:44 Item: 5 item_armor_shard
+  6:44 Item: 5 item_armor_shard
+  6:44 Item: 5 item_armor_combat
+  6:45 Kill: 1022 4 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+  6:46 Item: 5 item_armor_shard
+  6:46 Item: 3 weapon_rocketlauncher
+  6:46 Item: 5 item_armor_shard
+  6:47 Item: 5 item_armor_shard
+  6:47 Item: 7 weapon_rocketlauncher
+  6:48 Kill: 6 3 6: Zeh killed Oootsimo by MOD_ROCKET
+  6:49 Item: 5 weapon_rocketlauncher
+  6:51 Item: 4 weapon_rocketlauncher
+  6:51 Item: 7 item_health_large
+  6:52 Item: 6 weapon_rocketlauncher
+  6:55 Item: 2 weapon_railgun
+  6:55 Item: 2 weapon_railgun
+  6:57 Item: 3 weapon_shotgun
+  6:57 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  6:57 Item: 3 ammo_shells
+  6:59 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
+  6:59 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+  7:00 Kill: 4 5 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+  7:01 Item: 7 weapon_rocketlauncher
+  7:02 Item: 4 weapon_rocketlauncher
+  7:04 Item: 4 weapon_rocketlauncher
+  7:05 Item: 3 weapon_rocketlauncher
+  7:06 Kill: 5 3 3: Assasinu Credi killed Oootsimo by MOD_MACHINEGUN
+  7:07 Item: 5 weapon_rocketlauncher
+  7:07 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
+  7:07 Kill: 5 7 6: Assasinu Credi killed Mal by MOD_ROCKET
+  7:07 Item: 5 weapon_rocketlauncher
+  7:09 Item: 3 weapon_rocketlauncher
+  7:11 Item: 6 weapon_rocketlauncher
+  7:11 Item: 5 item_armor_shard
+  7:11 Item: 5 item_armor_shard
+  7:11 Item: 5 item_armor_shard
+  7:11 Kill: 5 4 6: Assasinu Credi killed Dono da Bola by MOD_ROCKET
+  7:12 Item: 5 item_armor_shard
+  7:12 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+  7:14 Item: 7 weapon_shotgun
+  7:14 Item: 4 weapon_rocketlauncher
+  7:15 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  7:15 Item: 3 item_armor_shard
+  7:16 Item: 3 item_armor_shard
+  7:16 Item: 5 weapon_rocketlauncher
+  7:16 Item: 3 item_armor_combat
+  7:17 Item: 2 ammo_rockets
+  7:18 Item: 5 item_armor_body
+  7:18 Item: 3 item_health_large
+  7:20 Item: 2 weapon_rocketlauncher
+  7:22 Kill: 1022 3 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+  7:22 Item: 7 ammo_shells
+  7:23 Item: 7 weapon_shotgun
+  7:25 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  7:25 Item: 3 weapon_rocketlauncher
+  7:26 Item: 3 ammo_rockets
+  7:26 Kill: 4 7 7: Dono da Bola killed Mal by MOD_ROCKET_SPLASH
+  7:27 Item: 5 weapon_rocketlauncher
+  7:29 Kill: 2 6 6: Isgalamido killed Zeh by MOD_ROCKET
+  7:29 Item: 7 weapon_rocketlauncher
+  7:30 Item: 2 item_quad
+  7:32 Item: 6 weapon_rocketlauncher
+  7:33 Item: 7 weapon_shotgun
+  7:33 Kill: 3 5 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+  7:34 Kill: 2 3 7: Isgalamido killed Oootsimo by MOD_ROCKET_SPLASH
+  7:36 Item: 7 weapon_rocketlauncher
+  7:36 Item: 4 weapon_rocketlauncher
+  7:36 Item: 7 weapon_rocketlauncher
+  7:37 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+  7:37 Item: 3 weapon_rocketlauncher
+  7:39 Item: 5 weapon_rocketlauncher
+  7:40 Kill: 3 5 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+  7:40 Item: 3 weapon_rocketlauncher
+  7:43 Item: 5 weapon_rocketlauncher
+  7:44 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+  7:44 Item: 3 weapon_shotgun
+  7:45 Item: 4 weapon_rocketlauncher
+  7:48 Item: 2 weapon_rocketlauncher
+  7:49 Item: 5 item_armor_body
+  7:51 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+  7:52 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  7:52 Item: 3 weapon_rocketlauncher
+  7:53 Item: 2 item_armor_shard
+  7:53 Item: 2 item_armor_shard
+  7:53 Item: 2 item_armor_shard
+  7:53 Item: 2 item_armor_combat
+  7:54 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+  7:54 Item: 5 weapon_rocketlauncher
+  7:55 Item: 4 weapon_rocketlauncher
+  7:55 Item: 7 weapon_rocketlauncher
+  7:56 Item: 5 item_health_large
+  7:57 Kill: 7 6 7: Mal killed Zeh by MOD_ROCKET_SPLASH
+  7:57 Item: 7 ammo_shells
+  7:58 Item: 3 weapon_rocketlauncher
+  8:01 Kill: 4 2 6: Dono da Bola killed Isgalamido by MOD_ROCKET
+  8:03 Item: 4 item_armor_shard
+  8:03 Item: 4 item_armor_shard
+  8:03 Item: 4 item_armor_shard
+  8:03 Item: 6 ammo_slugs
+  8:03 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  8:04 Item: 2 weapon_rocketlauncher
+  8:05 Kill: 4 5 6: Dono da Bola killed Assasinu Credi by MOD_ROCKET
+  8:06 Item: 6 weapon_railgun
+  8:07 Item: 7 weapon_rocketlauncher
+  8:08 Item: 2 weapon_rocketlauncher
+  8:11 Item: 5 weapon_rocketlauncher
+  8:11 Item: 5 ammo_rockets
+  8:11 Kill: 4 5 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+  8:12 Item: 7 weapon_rocketlauncher
+  8:12 Kill: 2 4 7: Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
+  8:15 Item: 5 ammo_rockets
+  8:16 Item: 5 weapon_rocketlauncher
+  8:17 Kill: 6 5 10: Zeh killed Assasinu Credi by MOD_RAILGUN
+  8:19 Item: 3 weapon_rocketlauncher
+  8:20 Item: 4 weapon_rocketlauncher
+  8:21 Kill: 3 7 7: Oootsimo killed Mal by MOD_ROCKET_SPLASH
+  8:21 Item: 5 weapon_rocketlauncher
+  8:22 Item: 5 item_armor_body
+  8:24 Kill: 3 3 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+  8:24 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+  8:26 Item: 3 weapon_rocketlauncher
+  8:27 Item: 3 weapon_rocketlauncher
+  8:28 Item: 5 item_armor_combat
+  8:29 Item: 2 item_armor_shard
+  8:29 Item: 2 item_armor_shard
+  8:29 Item: 2 item_armor_shard
+  8:30 Item: 4 weapon_rocketlauncher
+  8:30 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  8:30 Item: 7 item_quad
+  8:33 Item: 5 weapon_rocketlauncher
+  8:33 Item: 5 weapon_rocketlauncher
+  8:34 Item: 5 weapon_rocketlauncher
+  8:34 Item: 3 item_armor_shard
+  8:35 Item: 3 item_armor_shard
+  8:35 Item: 3 item_armor_shard
+  8:35 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+  8:35 Item: 7 weapon_rocketlauncher
+  8:37 Kill: 6 7 10: Zeh killed Mal by MOD_RAILGUN
+  8:37 Kill: 3 4 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+  8:40 Item: 3 weapon_rocketlauncher
+  8:40 Item: 4 weapon_rocketlauncher
+  8:40 Item: 3 item_quad
+  8:41 Item: 5 weapon_rocketlauncher
+  8:42 Kill: 3 2 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+  8:45 Item: 2 weapon_rocketlauncher
+  8:47 Kill: 5 7 6: Assasinu Credi killed Mal by MOD_ROCKET
+  8:49 Kill: 3 5 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+  8:50 Item: 7 weapon_rocketlauncher
+  8:50 Item: 7 weapon_rocketlauncher
+  8:50 Item: 3 weapon_rocketlauncher
+  8:51 Item: 3 weapon_rocketlauncher
+  8:54 Kill: 4 7 7: Dono da Bola killed Mal by MOD_ROCKET_SPLASH
+  8:54 Item: 6 weapon_railgun
+  8:55 Item: 5 weapon_rocketlauncher
+  8:56 Item: 5 weapon_rocketlauncher
+  8:56 Kill: 6 4 10: Zeh killed Dono da Bola by MOD_RAILGUN
+  8:57 Item: 7 ammo_rockets
+  8:57 Item: 7 weapon_rocketlauncher
+  8:58 Item: 2 weapon_railgun
+  8:59 Item: 7 item_armor_body
+  9:01 Item: 4 weapon_rocketlauncher
+  9:01 Item: 6 item_armor_shard
+  9:01 Item: 5 item_health_large
+  9:01 Item: 2 weapon_railgun
+  9:01 Item: 6 item_armor_shard
+  9:01 Item: 6 item_armor_shard
+  9:01 Item: 6 item_armor_combat
+  9:02 Item: 7 weapon_rocketlauncher
+  9:03 Kill: 3 6 6: Oootsimo killed Zeh by MOD_ROCKET
+  9:03 Item: 3 weapon_railgun
+  9:03 Kill: 2 3 10: Isgalamido killed Oootsimo by MOD_RAILGUN
+  9:05 Item: 6 ammo_rockets
+  9:05 Item: 6 weapon_rocketlauncher
+  9:10 Kill: 2 4 10: Isgalamido killed Dono da Bola by MOD_RAILGUN
+  9:11 Item: 3 weapon_shotgun
+  9:11 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+  9:11 Item: 7 ammo_shells
+  9:13 Item: 4 weapon_rocketlauncher
+  9:13 Item: 3 weapon_rocketlauncher
+  9:14 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  9:16 Item: 6 item_quad
+  9:16 Kill: 1022 3 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+  9:16 Item: 5 weapon_rocketlauncher
+  9:18 Item: 2 item_health_large
+  9:20 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+  9:20 Item: 4 item_health_large
+  9:22 Item: 3 weapon_rocketlauncher
+  9:22 Item: 3 weapon_railgun
+  9:22 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+  9:22 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  9:23 Item: 2 weapon_rocketlauncher
+  9:26 Item: 4 weapon_railgun
+  9:26 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+  9:27 Item: 2 item_armor_shard
+  9:27 Item: 2 item_armor_shard
+  9:27 Item: 2 item_armor_shard
+  9:32 Item: 5 weapon_rocketlauncher
+  9:33 Kill: 6 7 3: Zeh killed Mal by MOD_MACHINEGUN
+  9:34 Item: 5 item_armor_body
+  9:36 Item: 3 item_armor_combat
+  9:37 Kill: 2 6 7: Isgalamido killed Zeh by MOD_ROCKET_SPLASH
+  9:38 Item: 2 item_quad
+  9:38 Item: 2 weapon_rocketlauncher
+  9:41 Item: 7 weapon_rocketlauncher
+  9:41 Item: 7 ammo_rockets
+  9:46 Kill: 7 4 7: Mal killed Dono da Bola by MOD_ROCKET_SPLASH
+  9:46 Kill: 7 3 7: Mal killed Oootsimo by MOD_ROCKET_SPLASH
+  9:49 Kill: 7 2 7: Mal killed Isgalamido by MOD_ROCKET_SPLASH
+  9:51 Item: 7 weapon_rocketlauncher
+  9:51 Item: 7 weapon_railgun
+  9:51 Item: 3 weapon_rocketlauncher
+  9:52 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+  9:52 Item: 3 ammo_rockets
+  9:53 Item: 5 weapon_railgun
+  9:53 Item: 6 ammo_shells
+  9:54 Item: 6 weapon_shotgun
+  9:55 Kill: 7 6 3: Mal killed Zeh by MOD_MACHINEGUN
+  9:55 Item: 5 item_armor_shard
+  9:55 Item: 5 item_armor_shard
+  9:55 Item: 5 item_armor_shard
+  9:55 Item: 7 weapon_shotgun
+  9:57 Item: 3 weapon_rocketlauncher
+  9:57 Item: 6 weapon_rocketlauncher
+  9:58 Item: 7 weapon_shotgun
+  9:59 Kill: 4 2 3: Dono da Bola killed Isgalamido by MOD_MACHINEGUN
+ 10:00 Item: 6 weapon_rocketlauncher
+ 10:00 Item: 4 weapon_railgun
+ 10:01 Item: 4 item_health
+ 10:03 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 10:05 Item: 3 weapon_railgun
+ 10:05 Kill: 6 3 6: Zeh killed Oootsimo by MOD_ROCKET
+ 10:05 Item: 7 weapon_rocketlauncher
+ 10:06 Item: 5 weapon_rocketlauncher
+ 10:07 Item: 7 item_armor_shard
+ 10:07 Item: 7 item_armor_shard
+ 10:07 Item: 7 item_armor_shard
+ 10:07 Item: 7 item_armor_combat
+ 10:09 Item: 3 weapon_rocketlauncher
+ 10:09 Item: 2 weapon_rocketlauncher
+ 10:09 Kill: 5 6 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 10:12 Item: 7 ammo_shells
+ 10:15 Item: 2 weapon_rocketlauncher
+ 10:18 Item: 6 item_quad
+ 10:19 Item: 7 weapon_shotgun
+ 10:20 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 10:21 Kill: 3 5 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+ 10:22 Item: 3 weapon_rocketlauncher
+ 10:24 Item: 7 weapon_rocketlauncher
+ 10:24 Item: 7 ammo_rockets
+ 10:27 Item: 5 weapon_rocketlauncher
+ 10:27 Kill: 3 6 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 10:27 Item: 7 item_armor_body
+ 10:28 Item: 4 item_quad
+ 10:30 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 10:30 Item: 6 weapon_rocketlauncher
+ 10:31 Item: 3 item_health_large
+ 10:31 Item: 2 item_quad
+ 10:32 Kill: 7 5 7: Mal killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 10:32 Item: 2 weapon_rocketlauncher
+ 10:33 Item: 7 weapon_rocketlauncher
+ 10:34 Item: 4 weapon_rocketlauncher
+ 10:36 Item: 6 weapon_railgun
+ 10:36 Item: 3 item_armor_shard
+ 10:36 Item: 3 item_armor_shard
+ 10:36 Item: 3 item_armor_shard
+ 10:37 Item: 5 weapon_rocketlauncher
+ 10:39 Item: 3 item_armor_shard
+ 10:39 Item: 3 item_armor_shard
+ 10:39 Item: 3 item_armor_shard
+ 10:39 Item: 2 weapon_rocketlauncher
+ 10:39 Kill: 2 7 7: Isgalamido killed Mal by MOD_ROCKET_SPLASH
+ 10:39 Item: 3 item_armor_combat
+ 10:44 Kill: 3 6 6: Oootsimo killed Zeh by MOD_ROCKET
+ 10:47 Item: 7 weapon_railgun
+ 10:47 Item: 5 weapon_rocketlauncher
+ 10:47 Kill: 2 5 7: Isgalamido killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 10:48 Kill: 7 4 10: Mal killed Dono da Bola by MOD_RAILGUN
+ 10:49 Item: 6 weapon_shotgun
+ 10:49 Item: 7 weapon_rocketlauncher
+ 10:50 Kill: 6 2 1: Zeh killed Isgalamido by MOD_SHOTGUN
+ 10:51 Item: 3 weapon_rocketlauncher
+ 10:52 Item: 3 ammo_rockets
+ 10:55 Item: 2 weapon_rocketlauncher
+ 10:55 Item: 4 weapon_rocketlauncher
+ 10:56 Item: 2 weapon_rocketlauncher
+ 10:57 Item: 4 item_armor_body
+ 10:58 Kill: 6 7 1: Zeh killed Mal by MOD_SHOTGUN
+ 10:59 Kill: 2 6 7: Isgalamido killed Zeh by MOD_ROCKET_SPLASH
+ 11:00 Item: 2 weapon_rocketlauncher
+ 11:00 Item: 2 ammo_shells
+ 11:00 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 11:02 Item: 7 weapon_rocketlauncher
+ 11:03 Item: 2 item_armor_shard
+ 11:03 Item: 2 item_armor_shard
+ 11:03 Item: 2 item_armor_shard
+ 11:04 Item: 4 weapon_rocketlauncher
+ 11:06 Kill: 7 2 7: Mal killed Isgalamido by MOD_ROCKET_SPLASH
+ 11:07 Item: 5 weapon_rocketlauncher
+ 11:07 Kill: 7 5 7: Mal killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 11:08 Item: 6 weapon_rocketlauncher
+ 11:10 Item: 2 weapon_rocketlauncher
+ 11:10 Item: 7 weapon_rocketlauncher
+ 11:10 Kill: 6 7 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 11:10 Kill: 3 6 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 11:11 Item: 3 item_health_large
+ 11:11 Item: 4 weapon_rocketlauncher
+ 11:12 Item: 5 ammo_rockets
+ 11:12 Item: 4 weapon_rocketlauncher
+ 11:12 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 11:13 Item: 7 weapon_rocketlauncher
+ 11:13 Item: 2 weapon_shotgun
+ 11:14 Item: 6 ammo_shells
+ 11:14 Item: 6 weapon_shotgun
+ 11:16 Item: 5 weapon_rocketlauncher
+ 11:17 Item: 6 item_armor_shard
+ 11:17 Item: 6 item_armor_shard
+ 11:17 Item: 6 item_armor_shard
+ 11:17 Kill: 5 2 6: Assasinu Credi killed Isgalamido by MOD_ROCKET
+ 11:17 Item: 6 item_armor_combat
+ 11:19 Kill: 6 7 1: Zeh killed Mal by MOD_SHOTGUN
+ 11:21 Item: 2 weapon_rocketlauncher
+ 11:23 Item: 6 weapon_rocketlauncher
+ 11:23 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 11:24 Item: 3 item_quad
+ 11:25 Item: 3 item_armor_body
+ 11:27 Item: 3 weapon_rocketlauncher
+ 11:27 Item: 6 item_health_mega
+ 11:28 Item: 5 weapon_shotgun
+ 11:28 Kill: 1022 2 19: <world> killed Isgalamido by MOD_FALLING
+ 11:31 Item: 4 weapon_rocketlauncher
+ 11:32 Item: 2 weapon_rocketlauncher
+ 11:32 Item: 3 item_health_large
+ 11:32 Kill: 5 7 1: Assasinu Credi killed Mal by MOD_SHOTGUN
+ 11:36 Item: 5 weapon_rocketlauncher
+ 11:38 Kill: 1022 6 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 11:38 Item: 7 weapon_rocketlauncher
+ 11:40 Item: 6 weapon_rocketlauncher
+ 11:40 Kill: 2 5 7: Isgalamido killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 11:40 Kill: 5 2 6: Assasinu Credi killed Isgalamido by MOD_ROCKET
+ 11:41 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 11:41 Item: 7 ammo_shells
+ 11:41 Item: 6 weapon_rocketlauncher
+ 11:42 Item: 6 ammo_rockets
+ 11:44 Kill: 3 7 7: Oootsimo killed Mal by MOD_ROCKET_SPLASH
+ 11:44 Kill: 7 3 7: Mal killed Oootsimo by MOD_ROCKET_SPLASH
+ 11:44 Item: 5 weapon_rocketlauncher
+ 11:44 Item: 2 weapon_rocketlauncher
+ 11:47 Item: 5 weapon_rocketlauncher
+ 11:47 Item: 4 weapon_rocketlauncher
+ 11:47 Item: 5 item_quad
+ 11:47 Item: 5 weapon_rocketlauncher
+ 11:48 Kill: 6 4 7: Zeh killed Dono da Bola by MOD_ROCKET_SPLASH
+ 11:49 Item: 7 weapon_shotgun
+ 11:49 Item: 5 item_armor_shard
+ 11:49 Item: 5 item_armor_shard
+ 11:49 Item: 5 item_armor_shard
+ 11:49 Item: 5 item_armor_combat
+ 11:52 Item: 3 weapon_rocketlauncher
+ 11:53 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 11:54 Item: 2 item_armor_body
+ 11:56 Item: 3 item_armor_shard
+ 11:56 Item: 4 weapon_rocketlauncher
+ 11:56 Item: 3 item_armor_shard
+ 11:56 Item: 3 item_armor_shard
+ 11:57 Item: 6 item_health_large
+ 11:59 Kill: 4 3 7: Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
+ 12:00 Item: 4 weapon_rocketlauncher
+ 12:01 Item: 7 weapon_rocketlauncher
+ 12:03 Item: 3 weapon_rocketlauncher
+ 12:03 Item: 3 weapon_rocketlauncher
+ 12:04 Kill: 7 2 7: Mal killed Isgalamido by MOD_ROCKET_SPLASH
+ 12:04 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ 12:06 Item: 7 weapon_rocketlauncher
+ 12:06 Kill: 6 7 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 12:07 Item: 2 weapon_rocketlauncher
+ 12:07 Item: 6 weapon_rocketlauncher
+ 12:08 Kill: 3 2 6: Oootsimo killed Isgalamido by MOD_ROCKET
+ 12:10 Item: 2 ammo_rockets
+ 12:11 Item: 2 weapon_rocketlauncher
+ 12:12 Kill: 5 6 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 12:13 Kill: 2 3 7: Isgalamido killed Oootsimo by MOD_ROCKET_SPLASH
+ 12:14 Item: 7 weapon_shotgun
+ 12:14 Item: 4 weapon_railgun
+ 12:14 Item: 2 weapon_rocketlauncher
+ 12:14 Item: 7 weapon_rocketlauncher
+ 12:15 Item: 2 item_armor_shard
+ 12:15 Item: 2 item_armor_shard
+ 12:15 Item: 6 weapon_rocketlauncher
+ 12:15 Item: 2 item_armor_shard
+ 12:16 Item: 7 ammo_shells
+ 12:17 Item: 3 weapon_rocketlauncher
+ 12:19 Kill: 7 5 7: Mal killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 12:19 Item: 6 item_armor_combat
+ 12:20 Item: 2 weapon_shotgun
+ 12:21 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ 12:21 Item: 6 weapon_rocketlauncher
+ 12:22 Item: 7 weapon_rocketlauncher
+ 12:23 Item: 4 item_quad
+ 12:23 Item: 2 weapon_rocketlauncher
+ 12:25 Kill: 4 3 10: Dono da Bola killed Oootsimo by MOD_RAILGUN
+ 12:26 Item: 7 item_armor_body
+ 12:28 Item: 7 item_health_large
+ 12:29 Item: 3 weapon_rocketlauncher
+ 12:31 Item: 2 weapon_rocketlauncher
+ 12:32 Item: 6 weapon_rocketlauncher
+ 12:34 Item: 4 weapon_rocketlauncher
+ 12:37 Item: 3 weapon_shotgun
+ 12:37 Item: 5 weapon_rocketlauncher
+ 12:37 Kill: 4 5 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 12:38 Item: 7 item_health_large
+ 12:41 Item: 5 weapon_rocketlauncher
+ 12:41 Kill: 1022 6 19: <world> killed Zeh by MOD_FALLING
+ 12:44 Item: 6 ammo_rockets
+ 12:44 Kill: 4 7 6: Dono da Bola killed Mal by MOD_ROCKET
+ 12:44 Item: 6 weapon_rocketlauncher
+ 12:45 Kill: 3 5 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+ 12:47 Item: 3 item_armor_shard
+ 12:47 Item: 3 item_armor_shard
+ 12:47 Item: 3 item_armor_shard
+ 12:48 Item: 3 weapon_rocketlauncher
+ 12:48 Kill: 3 2 6: Oootsimo killed Isgalamido by MOD_ROCKET
+ 12:49 Item: 5 weapon_rocketlauncher
+ 12:49 Item: 7 weapon_rocketlauncher
+ 12:49 Kill: 1022 4 19: <world> killed Dono da Bola by MOD_FALLING
+ 12:49 Kill: 4 7 6: Dono da Bola killed Mal by MOD_ROCKET
+ 12:50 Item: 3 weapon_rocketlauncher
+ 12:51 Item: 6 item_quad
+ 12:51 Item: 6 weapon_rocketlauncher
+ 12:51 Item: 6 weapon_rocketlauncher
+ 12:52 Item: 2 weapon_rocketlauncher
+ 12:52 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ 12:52 Item: 6 item_armor_combat
+ 12:52 Item: 4 weapon_rocketlauncher
+ 12:53 Item: 5 weapon_rocketlauncher
+ 12:54 Item: 6 weapon_rocketlauncher
+ 12:55 Item: 6 item_armor_shard
+ 12:55 Item: 6 item_armor_shard
+ 12:55 Item: 6 item_armor_shard
+ 12:57 Kill: 5 2 7: Assasinu Credi killed Isgalamido by MOD_ROCKET_SPLASH
+ 12:58 Item: 7 ammo_shells
+ 12:58 Item: 3 weapon_rocketlauncher
+ 12:59 Item: 7 weapon_shotgun
+ 13:00 Item: 2 ammo_rockets
+ 13:00 Kill: 5 7 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 13:00 Item: 2 weapon_rocketlauncher
+ 13:00 Item: 5 weapon_shotgun
+ 13:01 Kill: 3 4 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 13:02 Item: 3 weapon_rocketlauncher
+ 13:02 Kill: 6 5 6: Zeh killed Assasinu Credi by MOD_ROCKET
+ 13:03 Item: 4 weapon_rocketlauncher
+ 13:03 Item: 6 weapon_shotgun
+ 13:04 Item: 6 weapon_rocketlauncher
+ 13:07 Item: 6 ammo_bullets
+ 13:08 Item: 7 weapon_rocketlauncher
+ 13:08 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
+ 13:09 Item: 5 weapon_rocketlauncher
+ 13:10 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 13:10 Item: 6 item_health_large
+ 13:10 Item: 3 weapon_shotgun
+ 13:12 Item: 6 weapon_rocketlauncher
+ 13:13 Item: 3 item_armor_shard
+ 13:13 Item: 3 item_armor_shard
+ 13:13 Item: 3 item_armor_shard
+ 13:15 Item: 2 weapon_rocketlauncher
+ 13:15 Item: 2 weapon_rocketlauncher
+ 13:16 Item: 3 item_health_large
+ 13:16 Item: 5 weapon_rocketlauncher
+ 13:19 Item: 5 item_armor_body
+ 13:22 Kill: 3 7 6: Oootsimo killed Mal by MOD_ROCKET
+ 13:22 Item: 6 weapon_rocketlauncher
+ 13:26 Kill: 5 3 6: Assasinu Credi killed Oootsimo by MOD_ROCKET
+ 13:26 Item: 6 item_armor_combat
+ 13:26 Item: 4 weapon_rocketlauncher
+ 13:27 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ 13:27 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 13:27 Item: 6 weapon_rocketlauncher
+ 13:28 Item: 6 weapon_rocketlauncher
+ 13:29 Item: 3 weapon_rocketlauncher
+ 13:29 Item: 3 ammo_rockets
+ 13:29 Item: 6 item_armor_shard
+ 13:29 Item: 4 ammo_bullets
+ 13:29 Item: 6 item_armor_shard
+ 13:29 Item: 6 item_armor_shard
+ 13:34 Item: 7 ammo_shells
+ 13:34 Item: 7 weapon_shotgun
+ 13:36 Item: 2 weapon_rocketlauncher
+ 13:37 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 13:37 Item: 5 weapon_rocketlauncher
+ 13:39 Item: 6 weapon_rocketlauncher
+ 13:40 Item: 7 ammo_rockets
+ 13:41 Item: 6 weapon_rocketlauncher
+ 13:41 Item: 4 weapon_rocketlauncher
+ 13:43 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 13:45 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 13:46 Kill: 4 3 7: Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
+ 13:46 Kill: 6 2 6: Zeh killed Isgalamido by MOD_ROCKET
+ 13:47 Item: 5 weapon_rocketlauncher
+ 13:47 Item: 4 weapon_rocketlauncher
+ 13:48 Item: 4 item_armor_shard
+ 13:48 Item: 4 item_armor_shard
+ 13:48 Item: 4 item_armor_shard
+ 13:48 Item: 3 weapon_rocketlauncher
+ 13:48 Item: 5 item_armor_body
+ 13:50 Item: 7 ammo_shells
+ 13:50 Item: 6 item_quad
+ 13:50 Item: 7 weapon_shotgun
+ 13:52 Kill: 6 7 6: Zeh killed Mal by MOD_ROCKET
+ 13:52 Item: 2 weapon_rocketlauncher
+ 13:55 Kill: 3 4 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 13:55 Exit: Fraglimit hit.
+ 13:55 score: 20  ping: 8  client: 3 Oootsimo
+ 13:55 score: 19  ping: 14  client: 6 Zeh
+ 13:55 score: 17  ping: 1  client: 2 Isgalamido
+ 13:55 score: 13  ping: 0  client: 5 Assasinu Credi
+ 13:55 score: 10  ping: 8  client: 4 Dono da Bola
+ 13:55 score: 6  ping: 19  client: 7 Mal
+ 14:11 ShutdownGame:
+ 14:11 

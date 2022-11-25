@@ -1,0 +1,554 @@
+
+ 11:03 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+ 11:04 ClientConnect: 2
+ 11:04 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:04 ClientBegin: 2
+ 11:04 ClientConnect: 3
+ 11:04 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1
+ 11:04 ClientBegin: 3
+ 11:04 ClientConnect: 4
+ 11:04 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+ 11:04 ClientBegin: 4
+ 11:04 ClientConnect: 5
+ 11:04 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:04 ClientBegin: 5
+ 11:04 ClientConnect: 6
+ 11:04 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:04 ClientBegin: 6
+ 11:04 ClientConnect: 7
+ 11:04 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:04 ClientBegin: 7
+ 11:04 ClientConnect: 8
+ 11:04 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:04 ClientBegin: 8
+ 11:06 Item: 2 weapon_railgun
+ 11:06 Item: 3 ammo_rockets
+ 11:06 Item: 3 ammo_bullets
+ 11:06 Item: 6 ammo_rockets
+ 11:06 Item: 4 ammo_bullets
+ 11:07 Item: 3 weapon_rocketlauncher
+ 11:07 Item: 4 weapon_rocketlauncher
+ 11:09 Item: 6 weapon_railgun
+ 11:10 Item: 2 weapon_railgun
+ 11:10 Item: 5 weapon_rocketlauncher
+ 11:10 Item: 3 team_CTF_blueflag
+ 11:11 Item: 7 weapon_rocketlauncher
+ 11:11 Item: 8 item_health_large
+ 11:12 Kill: 2 4 10: Isgalamido killed Zeh by MOD_RAILGUN
+ 11:13 Item: 3 weapon_rocketlauncher
+ 11:13 Item: 7 weapon_rocketlauncher
+ 11:15 Item: 6 weapon_railgun
+ 11:16 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
+ 11:17 Item: 4 weapon_rocketlauncher
+ 11:17 Item: 2 weapon_rocketlauncher
+ 11:19 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 11:19 Item: 2 weapon_rocketlauncher
+ 11:20 Item: 6 weapon_railgun
+ 11:22 Kill: 2 5 6: Isgalamido killed Oootsimo by MOD_ROCKET
+ 11:22 Item: 2 weapon_rocketlauncher
+ 11:23 Item: 6 weapon_railgun
+ 11:24 Item: 3 weapon_rocketlauncher
+ 11:25 Item: 2 item_health_large
+ 11:25 Item: 5 weapon_rocketlauncher
+ 11:28 Kill: 2 4 6: Isgalamido killed Zeh by MOD_ROCKET
+ 11:28 Item: 6 weapon_railgun
+ 11:29 Kill: 1022 5 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+ 11:30 Item: 2 weapon_railgun
+ 11:30 Item: 3 weapon_rocketlauncher
+ 11:32 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
+ 11:32 Item: 8 weapon_rocketlauncher
+ 11:33 Item: 4 item_armor_body
+ 11:34 Item: 6 weapon_railgun
+ 11:35 Item: 2 weapon_rocketlauncher
+ 11:35 Item: 3 weapon_rocketlauncher
+ 11:36 Item: 4 team_CTF_blueflag
+ 11:36 Item: 2 item_health_large
+ 11:37 Item: 5 team_CTF_redflag
+ 11:39 Item: 7 weapon_rocketlauncher
+ 11:39 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 11:40 Kill: 2 5 6: Isgalamido killed Oootsimo by MOD_ROCKET
+ 11:40 Kill: 3 8 6: Dono da Bola killed Mal by MOD_ROCKET
+ 11:40 Item: 2 team_CTF_redflag
+ 11:40 Item: 2 weapon_rocketlauncher
+ 11:41 Item: 3 team_CTF_blueflag
+ 11:42 Kill: 4 3 3: Zeh killed Dono da Bola by MOD_MACHINEGUN
+ 11:42 Item: 7 weapon_rocketlauncher
+ 11:43 Item: 6 team_CTF_blueflag
+ 11:43 Item: 6 weapon_rocketlauncher
+ 11:43 Item: 8 weapon_railgun
+ 11:44 Item: 5 weapon_rocketlauncher
+ 11:44 Item: 2 item_health
+ 11:44 Item: 2 weapon_bfg
+ 11:45 Item: 4 weapon_rocketlauncher
+ 11:45 Item: 3 weapon_rocketlauncher
+ 11:46 Item: 6 item_health_large
+ 11:47 Item: 7 team_CTF_blueflag
+ 11:48 Item: 5 team_CTF_redflag
+ 11:48 Kill: 2 5 13: Isgalamido killed Oootsimo by MOD_BFG_SPLASH
+ 11:50 Item: 7 weapon_railgun
+ 11:50 Item: 2 weapon_rocketlauncher
+ 11:50 Kill: 6 7 6: Chessus killed Assasinu Credi by MOD_ROCKET
+ 11:50 Item: 2 team_CTF_redflag
+ 11:50 Item: 6 team_CTF_blueflag
+ 11:50 Item: 6 weapon_rocketlauncher
+ 11:51 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 11:51 Kill: 4 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ 11:53 Item: 7 ammo_rockets
+ 11:53 Item: 4 team_CTF_redflag
+ 11:53 Item: 7 ammo_bullets
+ 11:53 Item: 5 weapon_rocketlauncher
+ 11:53 Item: 4 weapon_rocketlauncher
+ 11:54 Item: 7 weapon_rocketlauncher
+ 11:54 Item: 3 weapon_railgun
+ 11:57 Item: 5 weapon_rocketlauncher
+ 11:58 Item: 2 weapon_railgun
+ 11:59 Item: 6 weapon_rocketlauncher
+ 11:59 Item: 4 team_CTF_blueflag
+ 11:59 Kill: 7 6 7: Assasinu Credi killed Chessus by MOD_ROCKET_SPLASH
+ 12:00 Item: 5 ammo_bullets
+ 12:00 Item: 5 ammo_rockets
+ 12:01 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 12:01 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 12:01 Item: 3 team_CTF_blueflag
+ 12:02 Item: 6 weapon_railgun
+ 12:02 Item: 2 weapon_rocketlauncher
+ 12:03 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 12:03 Item: 8 weapon_rocketlauncher
+ 12:04 Item: 5 weapon_railgun
+ 12:04 Item: 7 weapon_railgun
+ 12:04 Item: 5 team_CTF_blueflag
+ 12:05 Item: 6 weapon_railgun
+ 12:07 Item: 7 weapon_railgun
+ 12:07 Item: 3 weapon_rocketlauncher
+ 12:08 Item: 4 team_CTF_redflag
+ 12:09 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 12:09 Item: 6 weapon_railgun
+ 12:10 Kill: 3 6 7: Dono da Bola killed Chessus by MOD_ROCKET_SPLASH
+ 12:11 Item: 4 weapon_rocketlauncher
+ 12:12 Item: 3 team_CTF_blueflag
+ 12:13 Kill: 3 3 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ 12:14 Item: 6 weapon_railgun
+ 12:14 Kill: 1022 5 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+ 12:15 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
+ 12:15 Item: 6 weapon_railgun
+ 12:15 Item: 2 weapon_railgun
+ 12:16 Item: 2 item_health_large
+ 12:17 Item: 7 weapon_rocketlauncher
+ 12:17 Item: 5 weapon_railgun
+ 12:18 Item: 8 weapon_rocketlauncher
+ 12:18 Item: 4 weapon_rocketlauncher
+ 12:21 Item: 8 team_CTF_blueflag
+ 12:21 Item: 2 weapon_railgun
+ 12:22 Kill: 4 2 6: Zeh killed Isgalamido by MOD_ROCKET
+ 12:23 Item: 4 team_CTF_redflag
+ 12:24 Item: 8 weapon_rocketlauncher
+ 12:25 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 12:25 Item: 3 team_CTF_blueflag
+ 12:25 Item: 2 weapon_rocketlauncher
+ 12:28 Item: 3 weapon_rocketlauncher
+ 12:28 Kill: 4 3 6: Zeh killed Dono da Bola by MOD_ROCKET
+ 12:29 Kill: 8 8 7: Mal killed Mal by MOD_ROCKET_SPLASH
+ 12:29 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
+ 12:29 Item: 7 weapon_rocketlauncher
+ 12:30 Item: 6 weapon_railgun
+ 12:31 Item: 5 weapon_rocketlauncher
+ 12:31 Item: 3 weapon_railgun
+ 12:32 Item: 2 weapon_bfg
+ 12:33 Item: 4 team_CTF_redflag
+ 12:33 Item: 4 weapon_rocketlauncher
+ 12:33 Item: 6 weapon_railgun
+ 12:34 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+ 12:34 Item: 7 weapon_rocketlauncher
+ 12:35 Item: 8 weapon_railgun
+ 12:35 Item: 4 team_CTF_blueflag
+ 12:36 Kill: 3 4 10: Dono da Bola killed Zeh by MOD_RAILGUN
+ 12:36 Item: 7 weapon_railgun
+ 12:37 Item: 5 weapon_rocketlauncher
+ 12:38 Item: 6 weapon_railgun
+ 12:38 Item: 8 item_health_large
+ 12:39 Item: 2 team_CTF_blueflag
+ 12:39 Item: 7 weapon_railgun
+ 12:39 Item: 4 weapon_rocketlauncher
+ 12:39 Kill: 6 2 10: Chessus killed Isgalamido by MOD_RAILGUN
+ 12:40 Item: 6 weapon_rocketlauncher
+ 12:40 Item: 6 team_CTF_blueflag
+ 12:42 Item: 7 weapon_railgun
+ 12:42 Item: 4 ammo_rockets
+ 12:42 Item: 4 ammo_bullets
+ 12:43 Item: 3 team_CTF_blueflag
+ 12:43 Item: 6 ammo_rockets
+ 12:43 Item: 6 ammo_bullets
+ 12:44 Item: 4 team_CTF_redflag
+ 12:45 Item: 6 weapon_railgun
+ 12:45 Item: 3 weapon_rocketlauncher
+ 12:46 Kill: 5 3 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 12:46 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 12:46 Item: 5 weapon_railgun
+ 12:46 Item: 5 team_CTF_blueflag
+ 12:47 Item: 2 weapon_rocketlauncher
+ 12:49 Item: 3 weapon_railgun
+ 12:51 Kill: 7 8 10: Assasinu Credi killed Mal by MOD_RAILGUN
+ 12:51 Item: 3 item_armor_body
+ 12:52 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+ 12:54 Kill: 1022 6 22: <world> killed Chessus by MOD_TRIGGER_HURT
+ 12:54 Item: 4 team_CTF_redflag
+ 12:55 Item: 2 weapon_railgun
+ 12:56 Item: 8 weapon_rocketlauncher
+ 12:57 Item: 3 team_CTF_blueflag
+ 12:57 Item: 4 weapon_rocketlauncher
+ 12:58 Kill: 3 5 10: Dono da Bola killed Oootsimo by MOD_RAILGUN
+ 12:58 Item: 3 weapon_rocketlauncher
+ 12:58 Item: 6 weapon_railgun
+ 13:00 Item: 3 weapon_rocketlauncher
+ 13:02 Item: 2 weapon_bfg
+ 13:03 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 13:06 Kill: 2 4 13: Isgalamido killed Zeh by MOD_BFG_SPLASH
+ 13:07 Item: 7 weapon_rocketlauncher
+ 13:07 Item: 2 weapon_rocketlauncher
+ 13:08 Item: 2 team_CTF_redflag
+ 13:08 Item: 6 weapon_railgun
+ 13:09 Kill: 3 5 6: Dono da Bola killed Oootsimo by MOD_ROCKET
+ 13:10 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 13:10 Item: 6 weapon_rocketlauncher
+ 13:11 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+ 13:11 Item: 4 weapon_rocketlauncher
+ 13:11 Item: 3 team_CTF_redflag
+ 13:12 Item: 3 item_health_large
+ 13:12 Item: 5 weapon_railgun
+ 13:13 Item: 3 weapon_railgun
+ 13:13 Kill: 1022 2 19: <world> killed Isgalamido by MOD_FALLING
+ 13:15 Item: 4 team_CTF_redflag
+ 13:16 Item: 5 weapon_rocketlauncher
+ 13:17 Item: 6 weapon_railgun
+ 13:17 Item: 3 item_health_large
+ 13:17 Item: 4 weapon_rocketlauncher
+ 13:20 Item: 4 team_CTF_blueflag
+ 13:20 Kill: 1022 6 22: <world> killed Chessus by MOD_TRIGGER_HURT
+ 13:21 Item: 3 team_CTF_blueflag
+ 13:21 Kill: 3 4 10: Dono da Bola killed Zeh by MOD_RAILGUN
+ 13:21 Item: 3 weapon_rocketlauncher
+ 13:21 Kill: 5 3 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 13:23 Item: 5 weapon_railgun
+ 13:23 Item: 5 team_CTF_blueflag
+ 13:23 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 13:23 Item: 2 weapon_bfg
+ 13:23 Item: 8 weapon_rocketlauncher
+ 13:24 Item: 6 weapon_railgun
+ 13:26 Item: 3 weapon_rocketlauncher
+ 13:26 Item: 7 weapon_railgun
+ 13:28 Item: 8 weapon_rocketlauncher
+ 13:28 Item: 2 item_armor_body
+ 13:30 Item: 4 team_CTF_redflag
+ 13:30 Item: 3 team_CTF_blueflag
+ 13:30 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+ 13:31 Item: 6 weapon_railgun
+ 13:32 Item: 3 ammo_rockets
+ 13:32 Item: 3 ammo_bullets
+ 13:32 Kill: 8 7 6: Mal killed Assasinu Credi by MOD_ROCKET
+ 13:32 Kill: 8 8 7: Mal killed Mal by MOD_ROCKET_SPLASH
+ 13:33 Item: 3 weapon_rocketlauncher
+ 13:33 Item: 2 weapon_rocketlauncher
+ 13:34 Item: 2 ammo_bullets
+ 13:34 Item: 6 weapon_railgun
+ 13:34 Item: 4 ammo_rockets
+ 13:35 Item: 7 weapon_railgun
+ 13:36 Kill: 1022 3 19: <world> killed Dono da Bola by MOD_FALLING
+ 13:36 Item: 4 weapon_rocketlauncher
+ 13:38 Item: 5 weapon_rocketlauncher
+ 13:38 Kill: 2 4 3: Isgalamido killed Zeh by MOD_MACHINEGUN
+ 13:39 Item: 7 weapon_railgun
+ 13:39 Item: 3 weapon_rocketlauncher
+ 13:40 Item: 7 team_CTF_blueflag
+ 13:40 Item: 7 weapon_rocketlauncher
+ 13:41 Item: 6 weapon_railgun
+ 13:41 Item: 2 item_health
+ 13:41 Item: 2 weapon_bfg
+ 13:41 Item: 2 weapon_railgun
+ 13:41 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 13:43 Kill: 5 7 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 13:43 Item: 6 team_CTF_redflag
+ 13:43 Item: 4 weapon_rocketlauncher
+ 13:44 Item: 5 team_CTF_blueflag
+ 13:44 Item: 5 weapon_rocketlauncher
+ 13:44 Kill: 2 6 10: Isgalamido killed Chessus by MOD_RAILGUN
+ 13:44 Item: 3 weapon_rocketlauncher
+ 13:44 Item: 8 weapon_railgun
+ 13:45 Item: 2 weapon_railgun
+ 13:46 Item: 2 team_CTF_redflag
+ 13:47 Item: 5 weapon_rocketlauncher
+ 13:47 Item: 4 team_CTF_redflag
+ 13:48 Item: 6 weapon_railgun
+ 13:48 Item: 3 team_CTF_blueflag
+ 13:49 Kill: 8 2 10: Mal killed Isgalamido by MOD_RAILGUN
+ 13:52 Item: 6 weapon_railgun
+ 13:52 Item: 7 weapon_rocketlauncher
+ 13:52 Item: 5 item_health_large
+ 13:56 Item: 6 item_health_large
+ 13:56 Kill: 8 3 10: Mal killed Dono da Bola by MOD_RAILGUN
+ 13:57 Item: 2 weapon_bfg
+ 13:57 Item: 8 weapon_rocketlauncher
+ 13:57 Item: 8 weapon_rocketlauncher
+ 13:58 Item: 8 team_CTF_blueflag
+ 13:58 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
+ 13:58 Kill: 2 4 13: Isgalamido killed Zeh by MOD_BFG_SPLASH
+ 14:00 Item: 3 weapon_rocketlauncher
+ 14:00 Item: 7 weapon_railgun
+ 14:00 Item: 6 team_CTF_redflag
+ 14:01 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+ 14:01 Item: 2 weapon_railgun
+ 14:01 Item: 2 weapon_rocketlauncher
+ 14:02 Item: 2 weapon_rocketlauncher
+ 14:02 Item: 2 team_CTF_redflag
+ 14:02 Kill: 8 8 7: Mal killed Mal by MOD_ROCKET_SPLASH
+ 14:03 Item: 4 weapon_rocketlauncher
+ 14:03 Item: 3 team_CTF_blueflag
+ 14:03 Item: 5 team_CTF_redflag
+ 14:04 Item: 6 weapon_rocketlauncher
+ 14:05 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 14:06 Item: 5 weapon_rocketlauncher
+ 14:09 Item: 3 weapon_railgun
+ 14:10 Item: 5 team_CTF_blueflag
+ 14:10 Item: 3 item_health_large
+ 14:11 Item: 2 weapon_bfg
+ 14:11 Kill: 4 4 7: Zeh killed Zeh by MOD_ROCKET_SPLASH
+ 14:11 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 14:11 Kill: 2 8 13: Isgalamido killed Mal by MOD_BFG_SPLASH
+ 14:11 Item: 3 item_armor_body
+ 14:12 Item: 6 team_CTF_redflag
+ 14:12 Item: 3 item_health_large
+ 14:13 Item: 5 ammo_rockets
+ 14:14 Item: 5 ammo_bullets
+ 14:14 Item: 6 weapon_railgun
+ 14:14 Item: 7 weapon_rocketlauncher
+ 14:15 Kill: 2 6 12: Isgalamido killed Chessus by MOD_BFG
+ 14:15 Item: 2 weapon_railgun
+ 14:16 Item: 4 weapon_rocketlauncher
+ 14:17 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 14:17 Item: 6 weapon_railgun
+ 14:18 Item: 7 team_CTF_redflag
+ 14:19 Item: 4 ammo_bullets
+ 14:19 Kill: 6 2 10: Chessus killed Isgalamido by MOD_RAILGUN
+ 14:20 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 14:20 Item: 5 weapon_rocketlauncher
+ 14:20 Item: 3 ammo_rockets
+ 14:20 Item: 4 weapon_rocketlauncher
+ 14:21 Item: 2 weapon_railgun
+ 14:22 Item: 3 weapon_railgun
+ 14:22 Item: 6 weapon_railgun
+ 14:23 Item: 7 weapon_rocketlauncher
+ 14:26 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
+ 14:26 Item: 7 weapon_rocketlauncher
+ 14:26 Item: 5 weapon_rocketlauncher
+ 14:27 Item: 2 weapon_railgun
+ 14:30 Kill: 5 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+ 14:30 Item: 2 weapon_bfg
+ 14:30 Item: 4 weapon_railgun
+ 14:31 Item: 5 weapon_rocketlauncher
+ 14:31 Kill: 2 4 13: Isgalamido killed Zeh by MOD_BFG_SPLASH
+ 14:32 Item: 3 team_CTF_blueflag
+ 14:34 Item: 7 weapon_railgun
+ 14:35 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 14:35 Item: 4 weapon_rocketlauncher
+ 14:35 Item: 8 team_CTF_blueflag
+ 14:36 Kill: 2 6 12: Isgalamido killed Chessus by MOD_BFG
+ 14:37 Item: 8 weapon_railgun
+ 14:38 Item: 3 weapon_railgun
+ 14:38 Kill: 5 2 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+ 14:39 Item: 4 weapon_bfg
+ 14:40 Item: 8 item_health_large
+ 14:41 Item: 3 item_armor_body
+ 14:41 Item: 6 weapon_railgun
+ 14:41 Item: 5 item_health_large
+ 14:42 Item: 5 team_CTF_redflag
+ 14:44 Kill: 2 5 3: Isgalamido killed Oootsimo by MOD_MACHINEGUN
+ 14:44 Item: 2 team_CTF_redflag
+ 14:44 Item: 2 weapon_rocketlauncher
+ 14:44 Kill: 4 2 12: Zeh killed Isgalamido by MOD_BFG
+ 14:45 Kill: 4 7 12: Zeh killed Assasinu Credi by MOD_BFG
+ 14:45 Item: 3 team_CTF_blueflag
+ 14:45 Item: 4 weapon_railgun
+ 14:46 Kill: 3 8 10: Dono da Bola killed Mal by MOD_RAILGUN
+ 14:46 Item: 4 team_CTF_redflag
+ 14:47 Item: 2 weapon_railgun
+ 14:47 Item: 3 weapon_rocketlauncher
+ 14:47 Item: 7 weapon_railgun
+ 14:49 Item: 4 weapon_rocketlauncher
+ 14:52 Kill: 5 3 3: Oootsimo killed Dono da Bola by MOD_MACHINEGUN
+ 14:53 Item: 5 team_CTF_blueflag
+ 14:53 Item: 5 weapon_rocketlauncher
+ 14:53 Item: 2 weapon_bfg
+ 14:54 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 14:54 Item: 4 team_CTF_blueflag
+ 14:54 Item: 5 team_CTF_redflag
+ 14:55 Item: 6 weapon_railgun
+ 14:56 Item: 4 ammo_rockets
+ 14:56 Item: 4 ammo_bullets
+ 14:57 Kill: 2 6 13: Isgalamido killed Chessus by MOD_BFG_SPLASH
+ 14:57 Item: 2 weapon_railgun
+ 14:57 Item: 8 weapon_railgun
+ 14:57 Item: 5 weapon_rocketlauncher
+ 14:57 Item: 4 weapon_rocketlauncher
+ 14:59 Kill: 2 8 12: Isgalamido killed Mal by MOD_BFG
+ 14:59 Item: 6 weapon_railgun
+ 15:00 Item: 2 team_CTF_blueflag
+ 15:00 Item: 3 weapon_railgun
+ 15:01 Kill: 5 3 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 15:01 Kill: 1022 5 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+ 15:01 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 15:02 Item: 8 weapon_railgun
+ 15:03 Item: 7 weapon_railgun
+ 15:04 Item: 3 weapon_railgun
+ 15:04 Item: 6 weapon_rocketlauncher
+ 15:04 Item: 2 item_health_large
+ 15:06 Item: 2 item_health_large
+ 15:06 Item: 6 weapon_railgun
+ 15:07 Item: 4 team_CTF_redflag
+ 15:07 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 15:08 Item: 3 item_armor_body
+ 15:09 Item: 4 ammo_rockets
+ 15:09 Item: 4 ammo_bullets
+ 15:10 Item: 7 weapon_rocketlauncher
+ 15:10 Item: 4 weapon_rocketlauncher
+ 15:11 Kill: 7 5 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ 15:13 Kill: 1022 6 22: <world> killed Chessus by MOD_TRIGGER_HURT
+ 15:13 Kill: 7 4 7: Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
+ 15:13 Item: 8 team_CTF_redflag
+ 15:13 Item: 8 weapon_rocketlauncher
+ 15:13 Kill: 3 8 10: Dono da Bola killed Mal by MOD_RAILGUN
+ 15:14 Item: 5 weapon_railgun
+ 15:15 Item: 3 team_CTF_redflag
+ 15:16 Item: 5 weapon_rocketlauncher
+ 15:16 Item: 2 team_CTF_redflag
+ 15:17 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 15:18 Item: 4 weapon_rocketlauncher
+ 15:18 Item: 3 item_health_large
+ 15:19 Item: 3 team_CTF_blueflag
+ 15:20 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 15:20 Item: 6 weapon_railgun
+ 15:20 Kill: 2 6 10: Isgalamido killed Chessus by MOD_RAILGUN
+ 15:21 Kill: 5 3 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 15:21 Item: 7 weapon_rocketlauncher
+ 15:22 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 15:23 Item: 5 team_CTF_blueflag
+ 15:23 Item: 4 weapon_railgun
+ 15:24 Item: 5 weapon_rocketlauncher
+ 15:24 Item: 6 weapon_railgun
+ 15:26 Item: 5 weapon_railgun
+ 15:28 Item: 2 weapon_bfg
+ 15:28 Item: 3 team_CTF_blueflag
+ 15:30 Item: 8 team_CTF_redflag
+ 15:30 Item: 5 weapon_rocketlauncher
+ 15:31 Item: 4 item_health_large
+ 15:31 Kill: 7 8 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 15:32 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
+ 15:32 Item: 7 team_CTF_redflag
+ 15:34 Kill: 2 4 13: Isgalamido killed Zeh by MOD_BFG_SPLASH
+ 15:35 Item: 3 weapon_railgun
+ 15:36 Item: 6 weapon_railgun
+ 15:37 Item: 8 weapon_rocketlauncher
+ 15:38 Item: 3 item_armor_body
+ 15:39 Item: 3 item_health_large
+ 15:40 Item: 2 weapon_rocketlauncher
+ 15:40 Item: 5 ammo_rockets
+ 15:41 Item: 5 ammo_bullets
+ 15:42 Kill: 2 8 6: Isgalamido killed Mal by MOD_ROCKET
+ 15:42 Item: 3 team_CTF_blueflag
+ 15:43 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 15:43 Item: 4 weapon_rocketlauncher
+ 15:43 Item: 4 team_CTF_redflag
+ 15:44 Kill: 2 4 7: Isgalamido killed Zeh by MOD_ROCKET_SPLASH
+ 15:45 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 15:45 Item: 2 team_CTF_redflag
+ 15:45 Item: 5 weapon_rocketlauncher
+ 15:45 Item: 2 weapon_rocketlauncher
+ 15:46 Item: 7 weapon_rocketlauncher
+ 15:49 Item: 8 weapon_railgun
+ 15:51 Kill: 2 5 6: Isgalamido killed Oootsimo by MOD_ROCKET
+ 15:53 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 15:53 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 15:54 Item: 8 weapon_rocketlauncher
+ 15:54 Item: 2 weapon_rocketlauncher
+ 15:54 Item: 6 weapon_rocketlauncher
+ 15:55 Item: 2 ammo_bullets
+ 15:55 Item: 2 ammo_rockets
+ 15:55 Item: 3 weapon_rocketlauncher
+ 15:56 Item: 3 weapon_railgun
+ 15:56 Item: 6 weapon_railgun
+ 15:57 Item: 4 weapon_rocketlauncher
+ 15:57 Item: 6 item_health_large
+ 15:58 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 16:00 Kill: 2 6 6: Isgalamido killed Chessus by MOD_ROCKET
+ 16:00 Item: 5 weapon_rocketlauncher
+ 16:00 Item: 4 weapon_railgun
+ 16:03 Item: 3 team_CTF_blueflag
+ 16:04 Item: 6 weapon_railgun
+ 16:04 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ 16:05 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 16:05 Item: 6 weapon_railgun
+ 16:05 Item: 5 team_CTF_blueflag
+ 16:05 Item: 5 weapon_railgun
+ 16:06 Item: 2 weapon_railgun
+ 16:07 Item: 7 item_health_large
+ 16:07 Item: 3 weapon_rocketlauncher
+ 16:08 Item: 4 weapon_rocketlauncher
+ 16:09 Item: 8 item_armor_body
+ 16:10 Item: 2 weapon_railgun
+ 16:11 Item: 6 weapon_railgun
+ 16:11 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 16:11 Item: 3 team_CTF_blueflag
+ 16:12 Kill: 4 2 6: Zeh killed Isgalamido by MOD_ROCKET
+ 16:14 Item: 3 weapon_rocketlauncher
+ 16:15 Kill: 7 4 7: Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
+ 16:15 Item: 2 weapon_railgun
+ 16:15 Item: 7 weapon_rocketlauncher
+ 16:15 Item: 6 weapon_railgun
+ 16:17 Kill: 1022 3 19: <world> killed Dono da Bola by MOD_FALLING
+ 16:18 Item: 2 weapon_rocketlauncher
+ 16:18 Item: 4 weapon_rocketlauncher
+ 16:18 Item: 7 weapon_rocketlauncher
+ 16:19 Item: 7 team_CTF_blueflag
+ 16:19 Kill: 6 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 16:19 Item: 5 team_CTF_redflag
+ 16:19 Item: 5 weapon_rocketlauncher
+ 16:20 Item: 5 team_CTF_blueflag
+ 16:20 Kill: 1022 8 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 16:22 Kill: 6 2 10: Chessus killed Isgalamido by MOD_RAILGUN
+ 16:23 Item: 5 weapon_rocketlauncher
+ 16:23 Item: 8 weapon_rocketlauncher
+ 16:24 Item: 4 weapon_rocketlauncher
+ 16:25 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
+ 16:25 ClientDisconnect: 2
+ 16:27 Item: 5 team_CTF_blueflag
+ 16:27 Item: 6 weapon_railgun
+ 16:28 Item: 3 team_CTF_blueflag
+ 16:28 Item: 7 weapon_railgun
+ 16:29 Item: 4 weapon_rocketlauncher
+ 16:29 Item: 8 team_CTF_redflag
+ 16:29 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
+ 16:30 Item: 6 team_CTF_blueflag
+ 16:32 ClientDisconnect: 3
+ 16:32 Item: 7 weapon_rocketlauncher
+ 16:33 Item: 5 ammo_bullets
+ 16:33 Item: 5 ammo_rockets
+ 16:35 Item: 8 team_CTF_blueflag
+ 16:35 Kill: 7 8 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 16:36 Item: 4 team_CTF_redflag
+ 16:37 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 16:38 Item: 4 ammo_rockets
+ 16:38 Item: 4 ammo_bullets
+ 16:38 Item: 4 weapon_rocketlauncher
+ 16:40 Item: 6 weapon_railgun
+ 16:40 Item: 7 weapon_railgun
+ 16:41 Item: 4 team_CTF_blueflag
+ 16:41 Exit: Capturelimit hit.
+ 16:41 red:2  blue:8
+ 16:41 score: 47  ping: 5  client: 5 Oootsimo
+ 16:41 score: 37  ping: 1  client: 4 Zeh
+ 16:41 score: 31  ping: 0  client: 6 Chessus
+ 16:41 score: 10  ping: 3  client: 7 Assasinu Credi
+ 16:41 score: 4  ping: 6  client: 8 Mal
+ 16:46 ClientDisconnect: 8
+ 16:51 ClientDisconnect: 6
+ 16:53 ClientDisconnect: 5
+ 16:53 ShutdownGame:
+ 16:53 

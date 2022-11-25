@@ -1,0 +1,55 @@
+
+ 10:28 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+ 10:28 ClientConnect: 2
+ 10:28 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:28 ClientBegin: 2
+ 10:28 ClientConnect: 3
+ 10:28 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1
+ 10:28 ClientBegin: 3
+ 10:28 ClientConnect: 4
+ 10:28 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+ 10:28 ClientBegin: 4
+ 10:28 ClientConnect: 5
+ 10:28 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:28 ClientBegin: 5
+ 10:28 ClientConnect: 6
+ 10:28 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:28 ClientBegin: 6
+ 10:28 ClientConnect: 7
+ 10:28 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:28 ClientBegin: 7
+ 10:28 ClientConnect: 8
+ 10:28 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:28 ClientBegin: 8
+ 10:31 Item: 5 ammo_rockets
+ 10:31 Item: 5 ammo_bullets
+ 10:32 Item: 6 weapon_railgun
+ 10:32 Item: 5 weapon_rocketlauncher
+ 10:35 Item: 5 item_health_large
+ 10:36 Item: 6 weapon_railgun
+ 10:36 Item: 5 team_CTF_redflag
+ 10:37 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+ 10:38 Kill: 5 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+ 10:39 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ 10:41 Item: 6 weapon_rocketlauncher
+ 10:46 Item: 5 ammo_rockets
+ 10:46 Item: 5 ammo_bullets
+ 10:47 Item: 4 weapon_railgun
+ 10:48 Item: 7 weapon_railgun
+ 10:50 Item: 4 item_health_large
+ 10:51 Item: 5 team_CTF_blueflag
+ 10:53 Item: 6 weapon_railgun
+ 10:54 Item: 4 weapon_rocketlauncher
+ 10:55 Kill: 5 5 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+ 10:56 Item: 6 weapon_railgun
+ 10:58 Item: 4 weapon_bfg
+ 10:58 Item: 2 weapon_rocketlauncher
+ 10:58 Item: 8 weapon_rocketlauncher
+ 11:00 Item: 6 weapon_railgun
+ 11:00 Kill: 4 7 13: Zeh killed Assasinu Credi by MOD_BFG_SPLASH
+ 11:00 Item: 5 weapon_rocketlauncher
+ 11:00 Item: 4 item_health_large
+ 11:02 Item: 2 weapon_bfg
+ 11:03 Kill: 4 3 12: Zeh killed Dono da Bola by MOD_BFG
+ 11:03 ShutdownGame:
+ 11:03 

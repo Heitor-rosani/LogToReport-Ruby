@@ -1,0 +1,60 @@
+  0:03 Kill: 6 2 18: Mal killed Oootsimo by MOD_TELEFRAG
+  0:04 Kill: 7 6 18: Assasinu Credi killed Mal by MOD_TELEFRAG
+  0:04 Kill: 3 7 18: Dono da Bola killed Assasinu Credi by MOD_TELEFRAG
+  0:04 Kill: 5 3 18: Chessus killed Dono da Bola by MOD_TELEFRAG
+  0:04 Kill: 4 5 18: Zeh killed Chessus by MOD_TELEFRAG
+  0:06 Kill: 5 4 18: Chessus killed Zeh by MOD_TELEFRAG
+  0:07 Kill: 3 5 18: Dono da Bola killed Chessus by MOD_TELEFRAG
+  0:10 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+  0:11 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+  0:12 Kill: 3 5 18: Dono da Bola killed Chessus by MOD_TELEFRAG
+  0:13 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+  0:15 Kill: 6 5 18: Mal killed Chessus by MOD_TELEFRAG
+  0:15 Kill: 8 6 18: Isgalamido killed Mal by MOD_TELEFRAG
+  0:15 Kill: 2 8 18: Oootsimo killed Isgalamido by MOD_TELEFRAG
+  0:17 Kill: 8 6 18: Isgalamido killed Mal by MOD_TELEFRAG
+  0:17 Kill: 5 8 18: Chessus killed Isgalamido by MOD_TELEFRAG
+  0:19 Kill: 6 5 18: Mal killed Chessus by MOD_TELEFRAG
+  0:19 Kill: 8 6 18: Isgalamido killed Mal by MOD_TELEFRAG
+  0:20 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+  0:21 Kill: 5 8 18: Chessus killed Isgalamido by MOD_TELEFRAG
+  0:22 Kill: 3 5 6: Dono da Bola killed Chessus by MOD_ROCKET
+  0:22 Kill: 3 2 7: Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
+  0:23 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+  0:24 Kill: 5 2 18: Chessus killed Oootsimo by MOD_TELEFRAG
+  0:26 Kill: 1022 8 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  0:27 Kill: 4 5 10: Zeh killed Chessus by MOD_RAILGUN
+  0:28 Kill: 4 2 10: Zeh killed Oootsimo by MOD_RAILGUN
+  0:32 Kill: 1022 8 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  0:35 Kill: 5 8 18: Chessus killed Isgalamido by MOD_TELEFRAG
+  0:35 Kill: 7 5 18: Assasinu Credi killed Chessus by MOD_TELEFRAG
+  0:36 Kill: 8 7 18: Isgalamido killed Assasinu Credi by MOD_TELEFRAG
+  0:39 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
+  0:40 Kill: 1022 5 22: <world> killed Chessus by MOD_TRIGGER_HURT
+  0:41 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  0:48 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+  0:50 Kill: 4 6 6: Zeh killed Mal by MOD_ROCKET
+  0:52 Kill: 1022 8 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  0:54 Kill: 6 8 18: Mal killed Isgalamido by MOD_TELEFRAG
+  0:58 Kill: 4 2 13: Zeh killed Oootsimo by MOD_BFG_SPLASH
+  1:02 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+  1:04 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+  1:05 Kill: 8 7 12: Isgalamido killed Assasinu Credi by MOD_BFG
+  1:05 Kill: 8 8 13: Isgalamido killed Isgalamido by MOD_BFG_SPLASH
+  1:06 Kill: 6 4 18: Mal killed Zeh by MOD_TELEFRAG
+  1:07 Kill: 8 6 18: Isgalamido killed Mal by MOD_TELEFRAG
+  1:10 Kill: 7 6 18: Assasinu Credi killed Mal by MOD_TELEFRAG
+  1:10 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+  1:13 Kill: 6 2 18: Mal killed Oootsimo by MOD_TELEFRAG
+  1:17 Kill: 8 6 10: Isgalamido killed Mal by MOD_RAILGUN
+  1:23 Kill: 8 7 10: Isgalamido killed Assasinu Credi by MOD_RAILGUN
+  1:33 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+  1:37 Kill: 7 8 6: Assasinu Credi killed Isgalamido by MOD_ROCKET
+  1:41 Kill: 4 7 10: Zeh killed Assasinu Credi by MOD_RAILGUN
+  1:46 Kill: 8 6 3: Isgalamido killed Mal by MOD_MACHINEGUN
+  1:50 Kill: 4 8 6: Zeh killed Isgalamido by MOD_ROCKET
+  1:52 Kill: 7 4 10: Assasinu Credi killed Zeh by MOD_RAILGUN
+  2:00 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+  2:03 Kill: 1022 8 17: <world> killed Isgalamido by MOD_CRUSH
+  2:10 Kill: 4 7 10: Zeh killed Assasinu Credi by MOD_RAILGUN
+  2:20 Kill: 4 8 12: Zeh killed Isgalamido by MOD_BFG

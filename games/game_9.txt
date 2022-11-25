@@ -1,0 +1,364 @@
+
+ 16:35 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
+ 16:36 ClientConnect: 2
+ 16:36 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 2
+ 16:36 ClientConnect: 3
+ 16:36 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 3
+ 16:36 ClientConnect: 4
+ 16:36 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 4
+ 16:36 ClientConnect: 5
+ 16:36 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 5
+ 16:36 ClientConnect: 6
+ 16:36 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 6
+ 16:36 ClientConnect: 7
+ 16:36 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 16:36 ClientBegin: 7
+ 16:38 Item: 4 ammo_rockets
+ 16:38 Item: 4 weapon_rocketlauncher
+ 16:38 Item: 5 weapon_rocketlauncher
+ 16:39 Item: 5 ammo_rockets
+ 16:41 Item: 4 weapon_rocketlauncher
+ 16:41 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ 16:42 Item: 6 ammo_shells
+ 16:43 Item: 6 weapon_shotgun
+ 16:45 Item: 2 weapon_rocketlauncher
+ 16:45 Item: 6 item_armor_shard
+ 16:45 Item: 6 item_armor_shard
+ 16:45 Item: 6 item_armor_shard
+ 16:46 Item: 6 item_armor_combat
+ 16:48 Item: 6 weapon_shotgun
+ 16:48 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 16:48 Item: 6 ammo_shells
+ 16:49 Kill: 2 2 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+ 16:49 Item: 5 weapon_rocketlauncher
+ 16:49 Kill: 6 5 1: Mal killed Dono da Bola by MOD_SHOTGUN
+ 16:51 Item: 2 weapon_rocketlauncher
+ 16:55 Item: 5 weapon_rocketlauncher
+ 16:56 Item: 2 weapon_rocketlauncher
+ 16:57 Item: 2 weapon_rocketlauncher
+ 16:58 Item: 6 weapon_rocketlauncher
+ 17:00 Item: 4 ammo_slugs
+ 17:03 Item: 4 weapon_railgun
+ 17:05 Kill: 6 2 6: Mal killed Oootsimo by MOD_ROCKET
+ 17:07 Item: 6 weapon_rocketlauncher
+ 17:09 Kill: 5 6 7: Dono da Bola killed Mal by MOD_ROCKET_SPLASH
+ 17:09 Item: 5 weapon_rocketlauncher
+ 17:10 Item: 2 weapon_rocketlauncher
+ 17:11 Item: 4 item_armor_shard
+ 17:11 Item: 4 item_armor_shard
+ 17:11 Item: 4 item_armor_shard
+ 17:14 Item: 4 weapon_shotgun
+ 17:15 Kill: 5 5 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ 17:16 Kill: 6 3 3: Mal killed Isgalamido by MOD_MACHINEGUN
+ 17:17 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ 17:18 Item: 2 weapon_shotgun
+ 17:18 Item: 5 weapon_rocketlauncher
+ 17:19 Item: 6 item_armor_body
+ 17:19 Item: 5 ammo_rockets
+ 17:23 Item: 4 item_health_large
+ 17:23 Item: 2 item_armor_shard
+ 17:23 Item: 2 item_armor_shard
+ 17:24 Item: 2 item_armor_shard
+ 17:24 Item: 2 item_armor_combat
+ 17:24 Item: 7 ammo_rockets
+ 17:25 Item: 7 weapon_rocketlauncher
+ 17:25 Item: 4 weapon_rocketlauncher
+ 17:29 Item: 3 weapon_rocketlauncher
+ 17:33 Kill: 4 5 6: Zeh killed Dono da Bola by MOD_ROCKET
+ 17:34 Item: 2 weapon_rocketlauncher
+ 17:34 Kill: 1022 3 19: <world> killed Isgalamido by MOD_FALLING
+ 17:34 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 17:36 Item: 7 weapon_rocketlauncher
+ 17:37 Item: 5 weapon_rocketlauncher
+ 17:38 Item: 2 item_armor_shard
+ 17:38 Item: 2 item_armor_shard
+ 17:38 Item: 2 item_armor_shard
+ 17:39 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 17:42 ClientDisconnect: 3
+ 17:42 Item: 6 weapon_rocketlauncher
+ 17:43 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 17:43 Kill: 5 7 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 17:45 Item: 5 weapon_rocketlauncher
+ 17:45 Kill: 2 5 6: Oootsimo killed Dono da Bola by MOD_ROCKET
+ 17:46 Item: 7 weapon_rocketlauncher
+ 17:46 Item: 4 weapon_rocketlauncher
+ 17:48 ClientDisconnect: 5
+ 17:50 Item: 4 weapon_rocketlauncher
+ 17:53 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 17:54 Item: 2 item_health_large
+ 17:55 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 17:57 Item: 4 item_armor_body
+ 17:59 Item: 2 weapon_rocketlauncher
+ 17:59 Item: 7 weapon_rocketlauncher
+ 18:00 ClientConnect: 3
+ 18:00 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 18:00 Item: 7 weapon_rocketlauncher
+ 18:01 Item: 4 ammo_rockets
+ 18:01 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 18:01 ClientBegin: 3
+ 18:03 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
+ 18:03 Item: 3 weapon_rocketlauncher
+ 18:06 Item: 2 item_armor_shard
+ 18:06 Item: 2 item_armor_shard
+ 18:06 Item: 2 item_armor_shard
+ 18:06 Item: 2 item_armor_combat
+ 18:06 Item: 4 weapon_rocketlauncher
+ 18:07 Item: 4 ammo_rockets
+ 18:07 Kill: 3 7 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
+ 18:07 Item: 3 weapon_shotgun
+ 18:08 Item: 3 weapon_rocketlauncher
+ 18:09 Kill: 2 3 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+ 18:10 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 18:11 Item: 3 weapon_rocketlauncher
+ 18:12 Item: 2 weapon_rocketlauncher
+ 18:13 Item: 2 item_armor_shard
+ 18:13 Item: 7 weapon_rocketlauncher
+ 18:13 Item: 2 item_armor_shard
+ 18:13 Item: 2 item_armor_shard
+ 18:15 Item: 6 ammo_shells
+ 18:21 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
+ 18:21 Item: 3 weapon_rocketlauncher
+ 18:21 Kill: 3 7 7: Isgalamido killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 18:22 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
+ 18:22 Item: 3 weapon_rocketlauncher
+ 18:24 Item: 7 weapon_rocketlauncher
+ 18:27 Item: 6 item_armor_body
+ 18:28 Item: 2 weapon_rocketlauncher
+ 18:29 ClientDisconnect: 3
+ 18:31 Item: 6 weapon_rocketlauncher
+ 18:32 Item: 4 item_quad
+ 18:32 Item: 4 weapon_rocketlauncher
+ 18:32 Item: 2 weapon_rocketlauncher
+ 18:35 Item: 6 weapon_rocketlauncher
+ 18:38 Item: 7 item_armor_shard
+ 18:38 Item: 7 item_armor_shard
+ 18:38 ClientConnect: 3
+ 18:38 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+ 18:38 Item: 7 item_armor_shard
+ 18:38 Item: 2 weapon_rocketlauncher
+ 18:38 Item: 7 item_armor_combat
+ 18:40 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+ 18:40 ClientBegin: 3
+ 18:41 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
+ 18:42 Item: 6 item_health_large
+ 18:42 Item: 2 weapon_rocketlauncher
+ 18:45 Item: 7 weapon_rocketlauncher
+ 18:46 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 18:46 Item: 2 item_armor_shard
+ 18:46 Item: 2 item_armor_shard
+ 18:46 Item: 2 item_armor_shard
+ 18:50 Kill: 1022 3 19: <world> killed Dono da Bola by MOD_FALLING
+ 18:50 Item: 6 weapon_rocketlauncher
+ 18:52 Item: 7 ammo_rockets
+ 18:52 Item: 7 weapon_rocketlauncher
+ 18:54 Kill: 6 4 7: Mal killed Zeh by MOD_ROCKET_SPLASH
+ 18:55 Kill: 7 6 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 18:56 Item: 2 weapon_rocketlauncher
+ 18:56 Item: 2 weapon_rocketlauncher
+ 18:58 Item: 4 ammo_rockets
+ 19:00 Item: 4 item_armor_body
+ 19:00 Item: 7 item_quad
+ 19:04 Item: 4 weapon_railgun
+ 19:07 Item: 4 weapon_rocketlauncher
+ 19:07 Item: 7 item_health_large
+ 19:08 Item: 2 item_armor_shard
+ 19:08 Item: 2 item_armor_shard
+ 19:08 Item: 2 item_armor_shard
+ 19:09 Item: 2 item_armor_combat
+ 19:12 Kill: 4 6 6: Zeh killed Mal by MOD_ROCKET
+ 19:13 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:13 Item: 2 weapon_rocketlauncher
+ 19:14 Item: 4 weapon_rocketlauncher
+ 19:14 Item: 2 weapon_rocketlauncher
+ 19:17 Item: 7 weapon_rocketlauncher
+ 19:18 Item: 6 weapon_rocketlauncher
+ 19:22 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 19:24 Item: 4 weapon_rocketlauncher
+ 19:24 ClientConnect: 5
+ 19:24 ClientUserinfoChanged: 5 n\Chessus!\t\0\model\xaero/default\hmodel\xaero/default\g_redteam\\g_blueteam\\c1\7\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 19:26 Item: 2 weapon_rocketlauncher
+ 19:27 ClientUserinfoChanged: 5 n\Chessus\t\0\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 19:27 ClientBegin: 5
+ 19:29 Item: 7 item_armor_shard
+ 19:29 Item: 7 item_armor_shard
+ 19:29 Item: 7 item_armor_shard
+ 19:33 Item: 5 ammo_slugs
+ 19:34 Item: 4 item_quad
+ 19:34 Item: 6 item_armor_shard
+ 19:34 Item: 6 item_armor_shard
+ 19:35 Item: 6 item_armor_shard
+ 19:35 Kill: 7 6 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 19:36 Item: 5 weapon_railgun
+ 19:36 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:37 Item: 2 item_health_large
+ 19:38 Item: 7 ammo_rockets
+ 19:39 Item: 7 weapon_rocketlauncher
+ 19:39 Item: 5 weapon_railgun
+ 19:41 Item: 6 weapon_rocketlauncher
+ 19:41 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 19:42 Item: 5 weapon_railgun
+ 19:42 Item: 7 item_armor_combat
+ 19:42 Item: 4 weapon_rocketlauncher
+ 19:44 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 19:44 Item: 4 weapon_rocketlauncher
+ 19:45 Item: 5 weapon_railgun
+ 19:45 Item: 7 weapon_rocketlauncher
+ 19:47 Item: 2 weapon_rocketlauncher
+ 19:47 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 19:48 Item: 5 weapon_railgun
+ 19:49 Item: 4 weapon_rocketlauncher
+ 19:51 Item: 7 weapon_rocketlauncher
+ 19:51 Item: 5 weapon_railgun
+ 19:51 Item: 4 item_armor_body
+ 19:54 Item: 6 weapon_shotgun
+ 19:54 Item: 5 weapon_railgun
+ 19:55 Item: 6 ammo_shells
+ 19:55 Kill: 2 6 6: Oootsimo killed Mal by MOD_ROCKET
+ 19:56 Item: 2 weapon_shotgun
+ 19:57 Item: 4 ammo_bullets
+ 19:57 Item: 5 weapon_railgun
+ 19:58 Item: 6 weapon_rocketlauncher
+ 19:58 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+ 19:59 Kill: 5 4 10: Chessus killed Zeh by MOD_RAILGUN
+ 20:00 Item: 5 weapon_railgun
+ 20:01 Item: 2 item_quad
+ 20:02 Item: 6 weapon_rocketlauncher
+ 20:02 Item: 6 ammo_rockets
+ 20:03 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN
+ 20:03 Item: 4 weapon_shotgun
+ 20:03 Item: 5 weapon_railgun
+ 20:05 Item: 4 item_armor_shard
+ 20:05 Item: 7 weapon_rocketlauncher
+ 20:05 Item: 4 item_armor_shard
+ 20:05 Item: 7 item_quad
+ 20:05 Item: 4 item_armor_shard
+ 20:06 Item: 5 weapon_railgun
+ 20:06 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:09 Item: 5 weapon_railgun
+ 20:09 Item: 2 weapon_rocketlauncher
+ 20:11 Item: 7 weapon_rocketlauncher
+ 20:14 Item: 5 weapon_railgun
+ 20:14 Kill: 7 6 6: Assasinu Credi killed Mal by MOD_ROCKET
+ 20:14 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ 20:15 Item: 2 weapon_rocketlauncher
+ 20:15 Item: 2 weapon_rocketlauncher
+ 20:15 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
+ 20:16 Item: 2 weapon_rocketlauncher
+ 20:18 Item: 5 weapon_railgun
+ 20:20 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:21 Item: 5 weapon_railgun
+ 20:22 Item: 4 weapon_rocketlauncher
+ 20:23 Item: 4 weapon_rocketlauncher
+ 20:23 Item: 4 weapon_rocketlauncher
+ 20:24 Item: 6 ammo_shells
+ 20:24 Kill: 2 6 6: Oootsimo killed Mal by MOD_ROCKET
+ 20:25 Item: 5 weapon_railgun
+ 20:25 Item: 7 weapon_rocketlauncher
+ 20:26 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN
+ 20:28 Item: 5 weapon_railgun
+ 20:29 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 20:30 Item: 2 weapon_rocketlauncher
+ 20:30 Kill: 5 7 10: Chessus killed Assasinu Credi by MOD_RAILGUN
+ 20:30 Item: 6 weapon_shotgun
+ 20:31 Item: 6 weapon_rocketlauncher
+ 20:32 Item: 5 weapon_railgun
+ 20:32 Item: 4 weapon_rocketlauncher
+ 20:32 Item: 7 ammo_rockets
+ 20:33 Item: 6 item_armor_shard
+ 20:33 Item: 6 item_armor_shard
+ 20:33 Item: 6 item_armor_shard
+ 20:33 Item: 6 item_armor_combat
+ 20:34 Item: 2 weapon_rocketlauncher
+ 20:35 Item: 6 weapon_rocketlauncher
+ 20:35 Item: 6 weapon_rocketlauncher
+ 20:36 Item: 5 weapon_railgun
+ 20:37 Item: 6 weapon_rocketlauncher
+ 20:39 Item: 7 weapon_railgun
+ 20:39 Kill: 4 5 6: Zeh killed Chessus by MOD_ROCKET
+ 20:40 Item: 6 item_armor_body
+ 20:43 Item: 5 ammo_rockets
+ 20:44 Item: 5 weapon_rocketlauncher
+ 20:46 Item: 2 item_armor_shard
+ 20:49 Item: 5 item_health_large
+ 20:49 Item: 2 item_health_large
+ 20:49 Kill: 6 4 6: Mal killed Zeh by MOD_ROCKET
+ 20:49 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ 20:51 Item: 2 weapon_rocketlauncher
+ 20:53 Item: 5 item_health_large
+ 20:54 Kill: 5 4 7: Chessus killed Zeh by MOD_ROCKET_SPLASH
+ 20:58 Item: 5 ammo_slugs
+ 21:00 Item: 7 weapon_railgun
+ 21:00 Item: 4 weapon_rocketlauncher
+ 21:01 Item: 2 item_armor_shard
+ 21:01 Item: 2 item_armor_shard
+ 21:02 Kill: 1022 5 22: <world> killed Chessus by MOD_TRIGGER_HURT
+ 21:02 Item: 6 weapon_rocketlauncher
+ 21:05 Item: 4 weapon_railgun
+ 21:05 Item: 2 item_armor_shard
+ 21:06 Item: 2 item_armor_shard
+ 21:06 Item: 5 weapon_rocketlauncher
+ 21:06 Item: 2 item_armor_shard
+ 21:06 Item: 2 item_armor_combat
+ 21:07 Item: 7 ammo_shells
+ 21:08 Item: 7 weapon_shotgun
+ 21:08 Item: 2 item_health_large
+ 21:10 Kill: 6 7 6: Mal killed Assasinu Credi by MOD_ROCKET
+ 21:10 Kill: 6 6 7: Mal killed Mal by MOD_ROCKET_SPLASH
+ 21:10 Item: 5 ammo_slugs
+ 21:12 Item: 2 weapon_rocketlauncher
+ 21:13 Item: 5 weapon_railgun
+ 21:14 Item: 4 item_quad
+ 21:14 Item: 7 weapon_rocketlauncher
+ 21:15 Kill: 4 2 10: Zeh killed Oootsimo by MOD_RAILGUN
+ 21:15 Item: 7 weapon_rocketlauncher
+ 21:16 Item: 5 weapon_railgun
+ 21:16 Item: 7 item_armor_body
+ 21:17 Item: 6 weapon_rocketlauncher
+ 21:18 Kill: 5 4 10: Chessus killed Zeh by MOD_RAILGUN
+ 21:18 Item: 2 weapon_rocketlauncher
+ 21:19 Item: 5 weapon_railgun
+ 21:22 Item: 5 weapon_railgun
+ 21:22 Item: 7 ammo_bullets
+ 21:23 Item: 4 item_quad
+ 21:24 Item: 4 weapon_railgun
+ 21:24 Kill: 7 2 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ 21:25 Item: 6 weapon_rocketlauncher
+ 21:26 Item: 6 weapon_rocketlauncher
+ 21:26 Item: 5 weapon_railgun
+ 21:26 Kill: 4 5 10: Zeh killed Chessus by MOD_RAILGUN
+ 21:26 Item: 7 weapon_rocketlauncher
+ 21:28 Kill: 2 4 3: Oootsimo killed Zeh by MOD_MACHINEGUN
+ 21:29 Item: 7 item_health_large
+ 21:31 Item: 2 weapon_railgun
+ 21:31 Item: 2 item_quad
+ 21:34 Item: 6 item_armor_shard
+ 21:34 Kill: 4 2 3: Zeh killed Oootsimo by MOD_MACHINEGUN
+ 21:34 Item: 6 item_armor_shard
+ 21:34 Item: 6 item_armor_shard
+ 21:36 Item: 4 item_quad
+ 21:36 Item: 4 weapon_railgun
+ 21:37 Item: 6 ammo_shells
+ 21:37 Item: 2 weapon_rocketlauncher
+ 21:37 Item: 2 ammo_rockets
+ 21:38 Item: 6 weapon_shotgun
+ 21:40 Item: 2 weapon_rocketlauncher
+ 21:40 Item: 5 ammo_slugs
+ 21:42 Kill: 7 6 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ 21:43 Item: 5 weapon_railgun
+ 21:43 Item: 5 weapon_railgun
+ 21:44 Item: 2 item_armor_combat
+ 21:46 Item: 5 weapon_railgun
+ 21:47 Item: 4 weapon_shotgun
+ 21:48 Item: 6 weapon_rocketlauncher
+ 21:48 Kill: 7 4 6: Assasinu Credi killed Zeh by MOD_ROCKET
+ 21:49 Item: 2 weapon_shotgun
+ 21:49 Item: 2 item_quad
+ 21:49 Item: 5 weapon_railgun
+ 21:51 Kill: 5 2 10: Chessus killed Oootsimo by MOD_RAILGUN
+ 21:52 ShutdownGame:
+ 21:52 
