@@ -1,14 +1,14 @@
- 12:24 Kill: 3 4 6: Isgalamido killed Zeh by MOD_ROCKET
- 12:26 Kill: 3 2 7: Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
- 14:02 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
- 14:15 Kill: 2 5 10: Zeh killed Assasinu Credi by MOD_RAILGUN
- 14:29 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
- 14:38 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
- 14:46 Kill: 5 2 6: Assasinu Credi killed Zeh by MOD_ROCKET
- 15:06 Kill: 5 2 6: Assasinu Credi killed Zeh by MOD_ROCKET
- 15:18 Kill: 2 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
- 15:27 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
- 15:36 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
- 15:38 Kill: 1022 2 22: <world> killed Zeh by MOD_TRIGGER_HURT
- 15:54 Kill: 5 2 6: Assasinu Credi killed Zeh by MOD_ROCKET
- 16:46 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ Isgalamido killed Zeh by MOD_ROCKET
+ Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ Zeh killed Assasinu Credi by MOD_RAILGUN
+ Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ Assasinu Credi killed Zeh by MOD_ROCKET
+ Assasinu Credi killed Zeh by MOD_ROCKET
+ Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Zeh by MOD_TRIGGER_HURT
+ Assasinu Credi killed Zeh by MOD_ROCKET
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT

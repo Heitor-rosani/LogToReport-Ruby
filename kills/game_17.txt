@@ -1,0 +1,13 @@
+<world>->Dono da Bola
+<world>->Zeh
+<world>->Assasinu Credi
+<world>->Oootsimo
+<world>->Assasinu Credi
+<world>->Dono da Bola
+<world>->Isgalamido
+Isgalamido->Assasinu Credi
+Zeh->Oootsimo
+Oootsimo->Zeh
+<world>->Mal
+<world>->Assasinu Credi
+Oootsimo->Oootsimo

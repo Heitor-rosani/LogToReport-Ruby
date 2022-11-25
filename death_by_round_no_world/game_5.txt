@@ -1,0 +1,9 @@
+Isgalamido->Zeh
+Isgalamido->Dono da Bola
+Zeh->Assasinu Credi
+Assasinu Credi->Assasinu Credi
+Assasinu Credi->Zeh
+Assasinu Credi->Zeh
+Zeh->Assasinu Credi
+Assasinu Credi->Assasinu Credi
+Assasinu Credi->Zeh

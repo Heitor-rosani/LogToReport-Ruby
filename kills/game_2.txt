@@ -1,0 +1,11 @@
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido
+Isgalamido->Mocinha
+Isgalamido->Isgalamido
+Isgalamido->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido
+<world>->Isgalamido

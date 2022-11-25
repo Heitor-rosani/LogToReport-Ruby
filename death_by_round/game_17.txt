@@ -1,13 +1,13 @@
-  0:27 Kill: 1022 2 19: <world> killed Dono da Bola by MOD_FALLING
-  0:32 Kill: 1022 6 22: <world> killed Zeh by MOD_TRIGGER_HURT
-  0:33 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
-  0:42 Kill: 1022 3 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
-  0:50 Kill: 1022 5 19: <world> killed Assasinu Credi by MOD_FALLING
-  0:54 Kill: 1022 2 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
-  1:11 Kill: 1022 4 19: <world> killed Isgalamido by MOD_FALLING
-  1:25 Kill: 4 5 10: Isgalamido killed Assasinu Credi by MOD_RAILGUN
-  1:28 Kill: 6 3 10: Zeh killed Oootsimo by MOD_RAILGUN
-  1:44 Kill: 3 6 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
-  1:45 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  1:51 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
-  1:52 Kill: 3 3 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+ <world> killed Dono da Bola by MOD_FALLING
+ <world> killed Zeh by MOD_TRIGGER_HURT
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ <world> killed Oootsimo by MOD_TRIGGER_HURT
+ <world> killed Assasinu Credi by MOD_FALLING
+ <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_FALLING
+ Isgalamido killed Assasinu Credi by MOD_RAILGUN
+ Zeh killed Oootsimo by MOD_RAILGUN
+ Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ <world> killed Mal by MOD_TRIGGER_HURT
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH

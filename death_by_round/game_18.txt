@@ -1,7 +1,7 @@
-  0:10 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
-  0:16 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
-  0:16 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
-  0:26 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
-  0:27 Kill: 1022 4 19: <world> killed Dono da Bola by MOD_FALLING
-  0:28 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  0:31 Kill: 5 6 7: Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
+ Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ Isgalamido killed Mal by MOD_ROCKET
+ Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ <world> killed Dono da Bola by MOD_FALLING
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH

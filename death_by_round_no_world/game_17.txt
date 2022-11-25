@@ -1,0 +1,4 @@
+Isgalamido->Assasinu Credi
+Zeh->Oootsimo
+Oootsimo->Zeh
+Oootsimo->Oootsimo

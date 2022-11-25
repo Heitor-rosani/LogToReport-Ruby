@@ -1,95 +1,95 @@
-  0:52 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  0:54 Kill: 6 4 6: Zeh killed Dono da Bola by MOD_ROCKET
-  0:54 Kill: 2 5 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
-  0:55 Kill: 3 6 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
-  1:02 Kill: 3 6 1: Oootsimo killed Zeh by MOD_SHOTGUN
-  1:03 Kill: 1022 4 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
-  1:10 Kill: 3 7 1: Oootsimo killed Mal by MOD_SHOTGUN
-  1:13 Kill: 2 3 10: Isgalamido killed Oootsimo by MOD_RAILGUN
-  1:15 Kill: 4 2 3: Dono da Bola killed Isgalamido by MOD_MACHINEGUN
-  1:15 Kill: 5 6 7: Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
-  1:16 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
-  1:22 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  1:24 Kill: 4 6 10: Dono da Bola killed Zeh by MOD_RAILGUN
-  1:29 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
-  1:36 Kill: 7 5 6: Mal killed Assasinu Credi by MOD_ROCKET
-  1:39 Kill: 4 3 10: Dono da Bola killed Oootsimo by MOD_RAILGUN
-  1:40 Kill: 6 4 7: Zeh killed Dono da Bola by MOD_ROCKET_SPLASH
-  1:50 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
-  1:52 Kill: 4 3 7: Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
-  1:54 Kill: 2 7 10: Isgalamido killed Mal by MOD_RAILGUN
-  2:03 Kill: 7 4 3: Mal killed Dono da Bola by MOD_MACHINEGUN
-  2:10 Kill: 3 7 6: Oootsimo killed Mal by MOD_ROCKET
-  2:11 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
-  2:12 Kill: 4 5 6: Dono da Bola killed Assasinu Credi by MOD_ROCKET
-  2:14 Kill: 6 3 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
-  2:18 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
-  2:23 Kill: 6 2 3: Zeh killed Isgalamido by MOD_MACHINEGUN
-  2:29 Kill: 4 6 10: Dono da Bola killed Zeh by MOD_RAILGUN
-  2:35 Kill: 7 4 3: Mal killed Dono da Bola by MOD_MACHINEGUN
-  2:43 Kill: 5 3 6: Assasinu Credi killed Oootsimo by MOD_ROCKET
-  2:44 Kill: 2 6 7: Isgalamido killed Zeh by MOD_ROCKET_SPLASH
-  2:46 Kill: 4 5 6: Dono da Bola killed Assasinu Credi by MOD_ROCKET
-  2:46 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
-  2:53 Kill: 6 5 6: Zeh killed Assasinu Credi by MOD_ROCKET
-  2:58 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
-  2:58 Kill: 4 3 6: Dono da Bola killed Oootsimo by MOD_ROCKET
-  3:02 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
-  3:09 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  3:13 Kill: 1022 5 19: <world> killed Assasinu Credi by MOD_FALLING
-  3:15 Kill: 7 2 6: Mal killed Isgalamido by MOD_ROCKET
-  3:18 Kill: 3 7 7: Oootsimo killed Mal by MOD_ROCKET_SPLASH
-  3:23 Kill: 6 3 10: Zeh killed Oootsimo by MOD_RAILGUN
-  3:27 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  3:28 Kill: 5 6 1: Assasinu Credi killed Zeh by MOD_SHOTGUN
-  3:32 Kill: 4 3 6: Dono da Bola killed Oootsimo by MOD_ROCKET
-  3:42 Kill: 7 4 7: Mal killed Dono da Bola by MOD_ROCKET_SPLASH
-  3:43 Kill: 5 6 6: Assasinu Credi killed Zeh by MOD_ROCKET
-  3:44 Kill: 5 3 7: Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
-  3:47 Kill: 5 2 6: Assasinu Credi killed Isgalamido by MOD_ROCKET
-  3:50 Kill: 6 7 6: Zeh killed Mal by MOD_ROCKET
-  3:53 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
-  4:03 Kill: 6 3 1: Zeh killed Oootsimo by MOD_SHOTGUN
-  4:05 Kill: 6 5 1: Zeh killed Assasinu Credi by MOD_SHOTGUN
-  4:05 Kill: 5 6 6: Assasinu Credi killed Zeh by MOD_ROCKET
-  4:05 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
-  4:05 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
-  4:10 Kill: 6 4 1: Zeh killed Dono da Bola by MOD_SHOTGUN
-  4:13 Kill: 3 6 6: Oootsimo killed Zeh by MOD_ROCKET
-  4:16 Kill: 2 3 6: Isgalamido killed Oootsimo by MOD_ROCKET
-  4:17 Kill: 7 6 6: Mal killed Zeh by MOD_ROCKET
-  4:21 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
-  4:27 Kill: 2 4 7: Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
-  4:27 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
-  4:35 Kill: 1022 3 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
-  4:36 Kill: 2 6 3: Isgalamido killed Zeh by MOD_MACHINEGUN
-  4:39 Kill: 4 3 6: Dono da Bola killed Oootsimo by MOD_ROCKET
-  4:39 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
-  4:44 Kill: 3 2 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
-  4:47 Kill: 5 7 7: Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
-  4:47 Kill: 4 5 7: Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
-  4:49 Kill: 2 6 6: Isgalamido killed Zeh by MOD_ROCKET
-  4:51 Kill: 4 2 6: Dono da Bola killed Isgalamido by MOD_ROCKET
-  4:56 Kill: 7 5 7: Mal killed Assasinu Credi by MOD_ROCKET_SPLASH
-  4:59 Kill: 6 7 7: Zeh killed Mal by MOD_ROCKET_SPLASH
-  5:03 Kill: 6 3 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
-  5:03 Kill: 7 4 3: Mal killed Dono da Bola by MOD_MACHINEGUN
-  5:04 Kill: 6 7 7: Zeh killed Mal by MOD_ROCKET_SPLASH
-  5:08 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
-  5:11 Kill: 5 5 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
-  5:12 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  5:14 Kill: 3 4 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
-  5:18 Kill: 1022 6 22: <world> killed Zeh by MOD_TRIGGER_HURT
-  5:22 Kill: 4 5 6: Dono da Bola killed Assasinu Credi by MOD_ROCKET
-  5:27 Kill: 6 4 6: Zeh killed Dono da Bola by MOD_ROCKET
-  5:28 Kill: 3 7 7: Oootsimo killed Mal by MOD_ROCKET_SPLASH
-  5:37 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
-  5:37 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
-  5:38 Kill: 2 6 10: Isgalamido killed Zeh by MOD_RAILGUN
-  5:44 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
-  5:45 Kill: 5 4 7: Assasinu Credi killed Dono da Bola by MOD_ROCKET_SPLASH
-  5:46 Kill: 6 2 3: Zeh killed Isgalamido by MOD_MACHINEGUN
-  5:46 Kill: 3 5 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
-  5:50 Kill: 6 4 6: Zeh killed Dono da Bola by MOD_ROCKET
-  5:53 Kill: 3 2 6: Oootsimo killed Isgalamido by MOD_ROCKET
-  5:54 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Zeh killed Dono da Bola by MOD_ROCKET
+ Isgalamido killed Assasinu Credi by MOD_ROCKET
+ Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+ Oootsimo killed Zeh by MOD_SHOTGUN
+ <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ Oootsimo killed Mal by MOD_SHOTGUN
+ Isgalamido killed Oootsimo by MOD_RAILGUN
+ Dono da Bola killed Isgalamido by MOD_MACHINEGUN
+ Assasinu Credi killed Zeh by MOD_ROCKET_SPLASH
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Dono da Bola killed Zeh by MOD_RAILGUN
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ Mal killed Assasinu Credi by MOD_ROCKET
+ Dono da Bola killed Oootsimo by MOD_RAILGUN
+ Zeh killed Dono da Bola by MOD_ROCKET_SPLASH
+ Isgalamido killed Zeh by MOD_RAILGUN
+ Dono da Bola killed Oootsimo by MOD_ROCKET_SPLASH
+ Isgalamido killed Mal by MOD_RAILGUN
+ Mal killed Dono da Bola by MOD_MACHINEGUN
+ Oootsimo killed Mal by MOD_ROCKET
+ Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ Dono da Bola killed Assasinu Credi by MOD_ROCKET
+ Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ Zeh killed Isgalamido by MOD_ROCKET_SPLASH
+ Zeh killed Isgalamido by MOD_MACHINEGUN
+ Dono da Bola killed Zeh by MOD_RAILGUN
+ Mal killed Dono da Bola by MOD_MACHINEGUN
+ Assasinu Credi killed Oootsimo by MOD_ROCKET
+ Isgalamido killed Zeh by MOD_ROCKET_SPLASH
+ Dono da Bola killed Assasinu Credi by MOD_ROCKET
+ Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ Zeh killed Assasinu Credi by MOD_ROCKET
+ Isgalamido killed Zeh by MOD_RAILGUN
+ Dono da Bola killed Oootsimo by MOD_ROCKET
+ Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ <world> killed Mal by MOD_TRIGGER_HURT
+ <world> killed Assasinu Credi by MOD_FALLING
+ Mal killed Isgalamido by MOD_ROCKET
+ Oootsimo killed Mal by MOD_ROCKET_SPLASH
+ Zeh killed Oootsimo by MOD_RAILGUN
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Assasinu Credi killed Zeh by MOD_SHOTGUN
+ Dono da Bola killed Oootsimo by MOD_ROCKET
+ Mal killed Dono da Bola by MOD_ROCKET_SPLASH
+ Assasinu Credi killed Zeh by MOD_ROCKET
+ Assasinu Credi killed Oootsimo by MOD_ROCKET_SPLASH
+ Assasinu Credi killed Isgalamido by MOD_ROCKET
+ Zeh killed Mal by MOD_ROCKET
+ Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ Zeh killed Oootsimo by MOD_SHOTGUN
+ Zeh killed Assasinu Credi by MOD_SHOTGUN
+ Assasinu Credi killed Zeh by MOD_ROCKET
+ Isgalamido killed Mal by MOD_ROCKET
+ Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
+ Zeh killed Dono da Bola by MOD_SHOTGUN
+ Oootsimo killed Zeh by MOD_ROCKET
+ Isgalamido killed Oootsimo by MOD_ROCKET
+ Mal killed Zeh by MOD_ROCKET
+ Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
+ <world> killed Assasinu Credi by MOD_TRIGGER_HURT
+ <world> killed Oootsimo by MOD_TRIGGER_HURT
+ Isgalamido killed Zeh by MOD_MACHINEGUN
+ Dono da Bola killed Oootsimo by MOD_ROCKET
+ Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+ Assasinu Credi killed Mal by MOD_ROCKET_SPLASH
+ Dono da Bola killed Assasinu Credi by MOD_ROCKET_SPLASH
+ Isgalamido killed Zeh by MOD_ROCKET
+ Dono da Bola killed Isgalamido by MOD_ROCKET
+ Mal killed Assasinu Credi by MOD_ROCKET_SPLASH
+ Zeh killed Mal by MOD_ROCKET_SPLASH
+ Zeh killed Oootsimo by MOD_ROCKET_SPLASH
+ Mal killed Dono da Bola by MOD_MACHINEGUN
+ Zeh killed Mal by MOD_ROCKET_SPLASH
+ Isgalamido killed Zeh by MOD_RAILGUN
+ Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+ <world> killed Zeh by MOD_TRIGGER_HURT
+ Dono da Bola killed Assasinu Credi by MOD_ROCKET
+ Zeh killed Dono da Bola by MOD_ROCKET
+ Oootsimo killed Mal by MOD_ROCKET_SPLASH
+ Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
+ <world> killed Mal by MOD_TRIGGER_HURT
+ Isgalamido killed Zeh by MOD_RAILGUN
+ Isgalamido killed Mal by MOD_ROCKET
+ Assasinu Credi killed Dono da Bola by MOD_ROCKET_SPLASH
+ Zeh killed Isgalamido by MOD_MACHINEGUN
+ Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+ Zeh killed Dono da Bola by MOD_ROCKET
+ Oootsimo killed Isgalamido by MOD_ROCKET
+ Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH

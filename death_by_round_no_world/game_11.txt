@@ -1,0 +1,12 @@
+Oootsimo->Assasinu Credi
+Isgalamido->Chessus
+Oootsimo->Dono da Bola
+Dono da Bola->Oootsimo
+Isgalamido->Zeh
+Oootsimo->Dono da Bola
+Isgalamido->Isgalamido
+Isgalamido->Zeh
+Isgalamido->Chessus
+Isgalamido->Mal
+Isgalamido->Chessus
+Oootsimo->Isgalamido

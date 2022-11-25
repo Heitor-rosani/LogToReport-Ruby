@@ -1,0 +1,89 @@
+<world>->Oootsimo
+Isgalamido->Zeh
+Assasinu Credi->Mal
+Zeh->Oootsimo
+Isgalamido->Assasinu Credi
+<world>->Isgalamido
+Dono da Bola->Mal
+Oootsimo->Dono da Bola
+<world>->Zeh
+Isgalamido->Assasinu Credi
+Oootsimo->Isgalamido
+Oootsimo->Oootsimo
+Oootsimo->Mal
+Dono da Bola->Dono da Bola
+Assasinu Credi->Zeh
+Assasinu Credi->Isgalamido
+Oootsimo->Dono da Bola
+Assasinu Credi->Assasinu Credi
+Isgalamido->Oootsimo
+Isgalamido->Mal
+Assasinu Credi->Oootsimo
+Isgalamido->Zeh
+Dono da Bola->Assasinu Credi
+Isgalamido->Dono da Bola
+Isgalamido->Zeh
+Dono da Bola->Mal
+Isgalamido->Dono da Bola
+Isgalamido->Assasinu Credi
+Oootsimo->Isgalamido
+Isgalamido->Dono da Bola
+Oootsimo->Mal
+Zeh->Isgalamido
+Zeh->Assasinu Credi
+Zeh->Oootsimo
+<world>->Isgalamido
+Assasinu Credi->Mal
+<world>->Dono da Bola
+Zeh->Assasinu Credi
+Mal->Mal
+Isgalamido->Mal
+Isgalamido->Dono da Bola
+Isgalamido->Oootsimo
+Zeh->Assasinu Credi
+Isgalamido->Assasinu Credi
+<world>->Zeh
+Isgalamido->Mal
+Oootsimo->Dono da Bola
+<world>->Mal
+Isgalamido->Oootsimo
+Assasinu Credi->Dono da Bola
+Oootsimo->Assasinu Credi
+Isgalamido->Mal
+<world>->Isgalamido
+Oootsimo->Dono da Bola
+Assasinu Credi->Mal
+Oootsimo->Zeh
+Isgalamido->Zeh
+Isgalamido->Oootsimo
+Dono da Bola->Dono da Bola
+Assasinu Credi->Mal
+Oootsimo->Isgalamido
+Zeh->Assasinu Credi
+<world>->Mal
+<world>->Assasinu Credi
+Oootsimo->Dono da Bola
+Assasinu Credi->Oootsimo
+Zeh->Isgalamido
+Oootsimo->Assasinu Credi
+Zeh->Mal
+Zeh->Dono da Bola
+Oootsimo->Zeh
+Zeh->Oootsimo
+Isgalamido->Assasinu Credi
+<world>->Isgalamido
+Assasinu Credi->Mal
+Oootsimo->Dono da Bola
+Zeh->Assasinu Credi
+Assasinu Credi->Mal
+<world>->Assasinu Credi
+Zeh->Oootsimo
+Zeh->Isgalamido
+<world>->Mal
+Zeh->Assasinu Credi
+<world>->Dono da Bola
+Oootsimo->Mal
+Isgalamido->Oootsimo
+<world>->Zeh
+Isgalamido->Zeh
+Isgalamido->Oootsimo

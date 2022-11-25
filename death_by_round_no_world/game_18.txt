@@ -1,0 +1,5 @@
+Zeh->Assasinu Credi
+Zeh->Isgalamido
+Isgalamido->Mal
+Assasinu Credi->Oootsimo
+Assasinu Credi->Zeh

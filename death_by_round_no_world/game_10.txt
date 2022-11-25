@@ -1,0 +1,42 @@
+Mal->Oootsimo
+Assasinu Credi->Mal
+Dono da Bola->Assasinu Credi
+Chessus->Dono da Bola
+Zeh->Chessus
+Chessus->Zeh
+Dono da Bola->Chessus
+Dono da Bola->Chessus
+Mal->Chessus
+Isgalamido->Mal
+Oootsimo->Isgalamido
+Isgalamido->Mal
+Chessus->Isgalamido
+Mal->Chessus
+Isgalamido->Mal
+Chessus->Isgalamido
+Dono da Bola->Chessus
+Dono da Bola->Oootsimo
+Chessus->Oootsimo
+Zeh->Chessus
+Zeh->Oootsimo
+Chessus->Isgalamido
+Assasinu Credi->Chessus
+Isgalamido->Assasinu Credi
+Zeh->Mal
+Mal->Isgalamido
+Zeh->Oootsimo
+Isgalamido->Assasinu Credi
+Isgalamido->Isgalamido
+Mal->Zeh
+Isgalamido->Mal
+Assasinu Credi->Mal
+Mal->Oootsimo
+Isgalamido->Mal
+Isgalamido->Assasinu Credi
+Assasinu Credi->Isgalamido
+Zeh->Assasinu Credi
+Isgalamido->Mal
+Zeh->Isgalamido
+Assasinu Credi->Zeh
+Zeh->Assasinu Credi
+Zeh->Isgalamido

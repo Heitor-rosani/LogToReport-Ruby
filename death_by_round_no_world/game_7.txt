@@ -1,0 +1,103 @@
+Assasinu Credi->Oootsimo
+Dono da Bola->Isgalamido
+Oootsimo->Mal
+Oootsimo->Dono da Bola
+Assasinu Credi->Dono da Bola
+Oootsimo->Isgalamido
+Assasinu Credi->Assasinu Credi
+Assasinu Credi->Mal
+Zeh->Dono da Bola
+Zeh->Oootsimo
+Dono da Bola->Mal
+Isgalamido->Assasinu Credi
+Oootsimo->Dono da Bola
+Zeh->Mal
+Assasinu Credi->Dono da Bola
+Isgalamido->Mal
+Isgalamido->Assasinu Credi
+Assasinu Credi->Isgalamido
+Zeh->Assasinu Credi
+Mal->Assasinu Credi
+Dono da Bola->Oootsimo
+Oootsimo->Dono da Bola
+Oootsimo->Zeh
+Assasinu Credi->Mal
+Oootsimo->Assasinu Credi
+Oootsimo->Assasinu Credi
+Dono da Bola->Oootsimo
+Dono da Bola->Dono da Bola
+Isgalamido->Mal
+Zeh->Dono da Bola
+Isgalamido->Zeh
+Dono da Bola->Dono da Bola
+Zeh->Oootsimo
+Dono da Bola->Zeh
+Mal->Dono da Bola
+Oootsimo->Mal
+Assasinu Credi->Isgalamido
+Oootsimo->Assasinu Credi
+Zeh->Dono da Bola
+Zeh->Zeh
+Isgalamido->Chessus
+Oootsimo->Dono da Bola
+Dono da Bola->Isgalamido
+Assasinu Credi->Zeh
+Dono da Bola->Assasinu Credi
+Isgalamido->Dono da Bola
+Oootsimo->Isgalamido
+Dono da Bola->Assasinu Credi
+Zeh->Dono da Bola
+Oootsimo->Zeh
+Mal->Oootsimo
+Isgalamido->Chessus
+Oootsimo->Mal
+Oootsimo->Assasinu Credi
+Isgalamido->Dono da Bola
+Mal->Dono da Bola
+Assasinu Credi->Assasinu Credi
+Isgalamido->Mal
+Isgalamido->Dono da Bola
+Mal->Zeh
+Assasinu Credi->Mal
+Oootsimo->Assasinu Credi
+Mal->Zeh
+Isgalamido->Dono da Bola
+Dono da Bola->Mal
+Assasinu Credi->Oootsimo
+Isgalamido->Zeh
+Dono da Bola->Zeh
+Assasinu Credi->Mal
+Isgalamido->Assasinu Credi
+Isgalamido->Isgalamido
+Assasinu Credi->Oootsimo
+Mal->Assasinu Credi
+Zeh->Dono da Bola
+Oootsimo->Mal
+Isgalamido->Oootsimo
+Oootsimo->Zeh
+Dono da Bola->Oootsimo
+Assasinu Credi->Isgalamido
+Zeh->Dono da Bola
+Assasinu Credi->Dono da Bola
+Oootsimo->Zeh
+Assasinu Credi->Isgalamido
+Dono da Bola->Oootsimo
+Assasinu Credi->Dono da Bola
+Assasinu Credi->Mal
+Assasinu Credi->Assasinu Credi
+Oootsimo->Zeh
+Zeh->Assasinu Credi
+Oootsimo->Zeh
+Isgalamido->Oootsimo
+Assasinu Credi->Zeh
+Isgalamido->Dono da Bola
+Zeh->Assasinu Credi
+Isgalamido->Oootsimo
+Isgalamido->Isgalamido
+Assasinu Credi->Isgalamido
+Oootsimo->Dono da Bola
+Zeh->Oootsimo
+Mal->Assasinu Credi
+Oootsimo->Zeh
+Mal->Oootsimo
+Oootsimo->Mal

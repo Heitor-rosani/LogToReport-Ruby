@@ -1,0 +1,14 @@
+Isgalamido->Zeh
+Isgalamido->Dono da Bola
+<world>->Assasinu Credi
+Zeh->Assasinu Credi
+Assasinu Credi->Assasinu Credi
+<world>->Assasinu Credi
+Assasinu Credi->Zeh
+Assasinu Credi->Zeh
+Zeh->Assasinu Credi
+<world>->Assasinu Credi
+Assasinu Credi->Assasinu Credi
+<world>->Zeh
+Assasinu Credi->Zeh
+<world>->Assasinu Credi

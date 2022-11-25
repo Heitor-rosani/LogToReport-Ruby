@@ -1,0 +1,105 @@
+<world>->Isgalamido
+<world>->Dono da Bola
+<world>->Isgalamido
+Dono da Bola->Zeh
+Isgalamido->Dono da Bola
+Isgalamido->Zeh
+Isgalamido->Dono da Bola
+Isgalamido->Zeh
+Isgalamido->Zeh
+Dono da Bola->Zeh
+Isgalamido->Dono da Bola
+<world>->Isgalamido
+Zeh->Dono da Bola
+Isgalamido->Zeh
+Isgalamido->Zeh
+Dono da Bola->Isgalamido
+<world>->Dono da Bola
+Zeh->Assasinu Credi
+Zeh->Dono da Bola
+Zeh->Isgalamido
+<world>->Assasinu Credi
+<world>->Isgalamido
+Zeh->Dono da Bola
+Isgalamido->Zeh
+Isgalamido->Assasinu Credi
+Isgalamido->Zeh
+Dono da Bola->Isgalamido
+Dono da Bola->Dono da Bola
+Zeh->Isgalamido
+Zeh->Assasinu Credi
+Zeh->Isgalamido
+Assasinu Credi->Zeh
+<world>->Isgalamido
+Zeh->Dono da Bola
+Zeh->Assasinu Credi
+Isgalamido->Dono da Bola
+<world>->Isgalamido
+Assasinu Credi->Zeh
+Assasinu Credi->Dono da Bola
+Assasinu Credi->Isgalamido
+Dono da Bola->Isgalamido
+<world>->Dono da Bola
+Zeh->Assasinu Credi
+<world>->Dono da Bola
+Zeh->Assasinu Credi
+Assasinu Credi->Zeh
+Dono da Bola->Isgalamido
+Dono da Bola->Zeh
+Dono da Bola->Dono da Bola
+Assasinu Credi->Isgalamido
+<world>->Dono da Bola
+<world>->Isgalamido
+Zeh->Dono da Bola
+Dono da Bola->Assasinu Credi
+Zeh->Dono da Bola
+Dono da Bola->Dono da Bola
+Zeh->Isgalamido
+Dono da Bola->Assasinu Credi
+<world>->Dono da Bola
+<world>->Zeh
+Assasinu Credi->Dono da Bola
+Assasinu Credi->Zeh
+Isgalamido->Assasinu Credi
+Dono da Bola->Assasinu Credi
+Dono da Bola->Assasinu Credi
+Zeh->Isgalamido
+Dono da Bola->Dono da Bola
+Isgalamido->Zeh
+Isgalamido->Assasinu Credi
+Zeh->Isgalamido
+Dono da Bola->Zeh
+Zeh->Assasinu Credi
+Isgalamido->Dono da Bola
+Zeh->Assasinu Credi
+Zeh->Assasinu Credi
+Isgalamido->Zeh
+<world>->Dono da Bola
+Isgalamido->Dono da Bola
+Assasinu Credi->Zeh
+Isgalamido->Dono da Bola
+Assasinu Credi->Isgalamido
+Dono da Bola->Assasinu Credi
+Dono da Bola->Zeh
+Assasinu Credi->Dono da Bola
+Assasinu Credi->Zeh
+Isgalamido->Assasinu Credi
+Isgalamido->Dono da Bola
+Assasinu Credi->Isgalamido
+Isgalamido->Zeh
+Isgalamido->Assasinu Credi
+Isgalamido->Zeh
+<world>->Assasinu Credi
+Dono da Bola->Zeh
+Isgalamido->Zeh
+Assasinu Credi->Dono da Bola
+<world>->Isgalamido
+Dono da Bola->Assasinu Credi
+Assasinu Credi->Zeh
+Assasinu Credi->Assasinu Credi
+Isgalamido->Dono da Bola
+<world>->Zeh
+<world>->Assasinu Credi
+Zeh->Dono da Bola
+Isgalamido->Assasinu Credi
+Zeh->Isgalamido

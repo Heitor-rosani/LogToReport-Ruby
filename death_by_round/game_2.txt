@@ -1,11 +1,11 @@
- 20:54 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 21:07 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 21:42 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 22:06 Kill: 2 3 7: Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
- 22:18 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
- 22:40 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
- 23:06 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 25:05 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 25:18 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 25:41 Kill: 1022 2 19: <world> killed Isgalamido by MOD_FALLING
- 25:52 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
+ Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
+ Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ <world> killed Isgalamido by MOD_FALLING
+ <world> killed Isgalamido by MOD_TRIGGER_HURT

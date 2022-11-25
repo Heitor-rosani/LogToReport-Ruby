@@ -1,3 +1,3 @@
-  6:17 Kill: 4 6 7: Dono da Bola killed Zeh by MOD_ROCKET_SPLASH
-  6:22 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
-  6:30 Kill: 3 5 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+ Dono da Bola killed Zeh by MOD_ROCKET_SPLASH
+ Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
+ Oootsimo killed Assasinu Credi by MOD_ROCKET

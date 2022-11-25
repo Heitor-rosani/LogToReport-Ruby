@@ -1,6 +1,6 @@
- 10:37 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
- 10:38 Kill: 5 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
- 10:39 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
- 10:55 Kill: 5 5 7: Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
- 11:00 Kill: 4 7 13: Zeh killed Assasinu Credi by MOD_BFG_SPLASH
- 11:03 Kill: 4 3 12: Zeh killed Dono da Bola by MOD_BFG
+ <world> killed Isgalamido by MOD_TRIGGER_HURT
+ Oootsimo killed Assasinu Credi by MOD_ROCKET
+ <world> killed Dono da Bola by MOD_TRIGGER_HURT
+ Oootsimo killed Oootsimo by MOD_ROCKET_SPLASH
+ Zeh killed Assasinu Credi by MOD_BFG_SPLASH
+ Zeh killed Dono da Bola by MOD_BFG

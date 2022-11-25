@@ -1,0 +1,29 @@
+Oootsimo->Zeh
+Isgalamido->Zeh
+Zeh->Isgalamido
+Zeh->Isgalamido
+Oootsimo->Zeh
+<world>->Oootsimo
+<world>->Zeh
+Isgalamido->UnnamedPlayer
+Isgalamido->Dono da Bola
+Zeh->Isgalamido
+Dono da Bola->Isgalamido
+Oootsimo->Dono da Bola
+Maluquinho->Zeh
+<world>->Maluquinho
+Isgalamido->Oootsimo
+Dono da Bola->Zeh
+Oootsimo->Assasinu Credi
+Oootsimo->Dono da Bola
+Zeh->Isgalamido
+Assasinu Credi->Dono da Bola
+Oootsimo->Zeh
+Zeh->Dono da Bola
+Zeh->Assasinu Credi
+Oootsimo->Zeh
+Oootsimo->Isgalamido
+Zeh->Mal
+Oootsimo->Assasinu Credi
+<world>->Isgalamido
+Zeh->Mal

@@ -1,0 +1,6 @@
+<world>->Isgalamido
+Oootsimo->Assasinu Credi
+<world>->Dono da Bola
+Oootsimo->Oootsimo
+Zeh->Assasinu Credi
+Zeh->Dono da Bola

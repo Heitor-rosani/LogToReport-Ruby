@@ -1,0 +1,60 @@
+Mal->Oootsimo
+Assasinu Credi->Mal
+Dono da Bola->Assasinu Credi
+Chessus->Dono da Bola
+Zeh->Chessus
+Chessus->Zeh
+Dono da Bola->Chessus
+<world>->Dono da Bola
+<world>->Oootsimo
+Dono da Bola->Chessus
+<world>->Mal
+Mal->Chessus
+Isgalamido->Mal
+Oootsimo->Isgalamido
+Isgalamido->Mal
+Chessus->Isgalamido
+Mal->Chessus
+Isgalamido->Mal
+<world>->Zeh
+Chessus->Isgalamido
+Dono da Bola->Chessus
+Dono da Bola->Oootsimo
+<world>->Mal
+Chessus->Oootsimo
+<world>->Isgalamido
+Zeh->Chessus
+Zeh->Oootsimo
+<world>->Isgalamido
+Chessus->Isgalamido
+Assasinu Credi->Chessus
+Isgalamido->Assasinu Credi
+<world>->Dono da Bola
+<world>->Chessus
+<world>->Assasinu Credi
+<world>->Assasinu Credi
+Zeh->Mal
+<world>->Isgalamido
+Mal->Isgalamido
+Zeh->Oootsimo
+<world>->Zeh
+<world>->Mal
+Isgalamido->Assasinu Credi
+Isgalamido->Isgalamido
+Mal->Zeh
+Isgalamido->Mal
+Assasinu Credi->Mal
+<world>->Oootsimo
+Mal->Oootsimo
+Isgalamido->Mal
+Isgalamido->Assasinu Credi
+<world>->Mal
+Assasinu Credi->Isgalamido
+Zeh->Assasinu Credi
+Isgalamido->Mal
+Zeh->Isgalamido
+Assasinu Credi->Zeh
+<world>->Mal
+<world>->Isgalamido
+Zeh->Assasinu Credi
+Zeh->Isgalamido
