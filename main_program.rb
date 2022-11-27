@@ -15,5 +15,6 @@ def data_maker
   file_functions.players_ranking_without_world()
   file_functions.players_killed_by_world()
   file_functions.define_ranking()
+  file_functions.deaths_cause_by_game()
 end
 

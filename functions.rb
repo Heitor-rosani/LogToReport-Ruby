@@ -303,4 +303,33 @@ class FileFunctions
     puts '------------------------------'
   end
 
+  def deaths_cause_by_game
+    File.delete("./deaths_cause/cause_deaths.json") if File.exist?("./deaths_cause/cause_deaths.json")
+    new_file = File.new("./deaths_cause/cause_deaths.json", "a")
+    deaths_cause = []
+    for i in 1...Dir["/games/*"].length;
+      game = File.open("#{Dir.pwd}/death_by_round/game_#{i}.txt")
+      deaths = []
+      File.open(new_file, 'a')
+      data_hash = Hash.new
+      game.readlines.each do |line|
+        index_cause = line.index('by')
+        cause = line[index_cause + 2..] 
+        deaths << cause.gsub("\n", '')   
+      end
+      data_hash["Game_#{i}"] = Hash.new
+      data_hash["Game_#{i}"]['causes'] = deaths.tally
+      deaths_cause << data_hash
+    end
+    File.write(new_file, JSON.dump(deaths_cause))
+  end
+
+  def print_ranking_causes
+    report = File.read("#{Dir.pwd}/deaths_cause/cause_deaths.json")
+    report_parsed = JSON.parse(report)
+    puts '------------------------------'
+    puts JSON.pretty_generate(report_parsed)
+    puts '------------------------------'
+  end
+
 end
