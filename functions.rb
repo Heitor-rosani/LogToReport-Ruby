@@ -1,4 +1,5 @@
 require 'json'
+require 'pry'
 
 class FileFunctions
   def file_to_games
@@ -200,16 +201,28 @@ class FileFunctions
   def players_ranking_without_world
     File.delete("./all_player_scored/ranking_without_world.json") if File.exist?("./all_player_scored/ranking_without_world.json")
     new_file = File.new("./all_player_scored/ranking_without_world.json", "w")
+    players = []
     File.open(new_file, 'w')
     all_players = File.open("#{Dir.pwd}/all_player_scored/players_by_game.txt")
-    count = all_players.tally.sort_by {|key, value| value}.reverse.to_h
-    File.write("./all_player_scored/ranking_without_world.json", JSON.dump(count))
+    count = all_players.tally
+    count = (count.sort).to_h
+    count.each do |name, value|
+      name = name.gsub("\n", '')
+      player = Hash.new
+      players.push({name => value})
+    end
+    File.write(new_file, JSON.dump(players))
+    new_file.close
   end
 
   def players_killed_by_world
     File.delete("./all_player_scored/world_deaths.json") if File.exist?("./all_player_scored/world_deaths.json")
     new_file = File.new("./all_player_scored/world_deaths.json", "a")
+
     all_players = []
+    players = []
+
+    File.open(new_file, 'a')
     for i in 1...Dir["/games/*"].length;
       game = File.open("#{Dir.pwd}/death_by_round_only_world/game_#{i}.txt")
       game.readlines.each do |line|
@@ -218,8 +231,55 @@ class FileFunctions
         all_players << first_player
       end
     end
-    count = all_players.tally.sort_by {|key, value| value}.reverse.to_h
-    File.write("./all_player_scored/world_deaths.json", JSON.dump(count))
+    count = all_players.tally
+    count = (count.sort).to_h
+    count.each do |name, value|
+      name = name.gsub("\n", '')
+      player = Hash.new
+      players.push({name => value})
+    end
+    File.write(new_file, JSON.dump(players))
+    new_file.close
+  end
+
+  def define_ranking
+    players = File.read("#{Dir.pwd}/all_player_scored/ranking_without_world.json")
+    world_kills = File.read("#{Dir.pwd}/all_player_scored/world_deaths.json")
+    File.delete("./all_player_scored/ranking.json") if File.exist?("./all_player_scored/ranking.json")
+    new_file = File.new("./all_player_scored/ranking.json", "a")
+
+    players = JSON.parse(players)
+    world_kills = JSON.parse(world_kills)
+
+    ranking = []
+    ranking_for_sort = []
+
+    players.each do |player|
+      player.each do |key, value|
+        world_kills.each do |kill|
+          kill.each do |k, v|
+              if k == key
+              count = value - v
+              user = Hash.new
+              user = {key=>count}
+              ranking << user
+              break
+            end
+          end
+        end
+      end
+    end
+    ranking.each do |player|
+      player.each do |k, v|
+        user = Hash.new
+        user['name'] = k
+        user['points'] = v
+        ranking_for_sort.push(user)
+      end
+    end
+    rank = ranking_for_sort.sort_by{|p| p['points']}.reverse
+    File.write(new_file, JSON.dump(rank))
+    new_file.close
   end
 
 end
