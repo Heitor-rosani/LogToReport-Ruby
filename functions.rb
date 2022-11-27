@@ -282,4 +282,25 @@ class FileFunctions
     new_file.close
   end
 
+  def render_ascii_art
+    text = File.read("#{Dir.pwd}/title.txt")
+    puts text
+  end
+
+  def print_report(game)
+    report = File.read("#{Dir.pwd}/json/game_#{game}.json")
+    report_parsed = JSON.parse(report)
+    puts '------------------------------'
+    puts JSON.pretty_generate(report_parsed)
+    puts '------------------------------'
+  end
+
+  def print_ranking
+    report = File.read("#{Dir.pwd}/all_player_scored/ranking.json")
+    report_parsed = JSON.parse(report)
+    puts '------------------------------'
+    puts JSON.pretty_generate(report_parsed)
+    puts '------------------------------'
+  end
+
 end
